@@ -1,0 +1,13 @@
+amountOfFish 1000
+safeZoneRadiusSquared 0.001
+viewZoneRadiusSquared 0.01
+maxSpeed 0.001
+minSpeed 0.0004
+avoidFactor 0.001
+centeringFactor 0.0002
+matchingFactor 0.0007
+turnFactor 0.005
+margin 0
+colorR 1
+colorG 0
+colorB 0

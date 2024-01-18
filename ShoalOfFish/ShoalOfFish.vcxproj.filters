@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="kernel.cu" />
+    <CudaCompile Include="Fish.cu">
+      <Filter>Fish</Filter>
+    </CudaCompile>
+    <CudaCompile Include="CudaFish.cu">
+      <Filter>Fish</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Fish">
+      <UniqueIdentifier>{44f911e7-a3bd-4d92-80f0-2938bbe1b835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View">
+      <UniqueIdentifier>{6d07fd53-bff1-4e17-9011-542cbe3039d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{edf88448-f5ea-4336-8e22-58e985d74511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Configuration">
+      <UniqueIdentifier>{249620db-0a3f-48b5-8521-14100cdca55c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fish.cuh">
+      <Filter>Fish</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.hpp">
+      <Filter>View</Filter>
+    </ClInclude>
+    <ClInclude Include="glad.h" />
+    <ClInclude Include="khrplatform.h" />
+    <ClInclude Include="Shader.hpp">
+      <Filter>Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="CudaFish.cuh">
+      <Filter>Fish</Filter>
+    </ClInclude>
+    <ClInclude Include="FishBase.cuh">
+      <Filter>Fish</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Window.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c" />
+    <ClCompile Include="Shader.cpp">
+      <Filter>Shader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="vertex.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="geometry.glsl">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CudaFish2.txt">
+      <Filter>Configuration</Filter>
+    </Text>
+    <Text Include="CudaFish.txt">
+      <Filter>Configuration</Filter>
+    </Text>
+    <Text Include="Fish.txt">
+      <Filter>Configuration</Filter>
+    </Text>
+    <Text Include="Fish2.txt">
+      <Filter>Configuration</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
