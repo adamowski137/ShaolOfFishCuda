@@ -17,6 +17,7 @@
 #include <device_launch_parameters.h>
 #define getDistanceSQ(x1, y1, x2, y2)	(x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2)
 #define gpuErrchk(ans) { gpuAssert((ans), __FILE__, __LINE__); }
+
 inline void gpuAssert(cudaError_t code, const char* file, int line, bool abort = true)
 {
 	if (code != cudaSuccess)
@@ -25,6 +26,11 @@ inline void gpuAssert(cudaError_t code, const char* file, int line, bool abort =
 		if (abort) exit(code);
 	}
 }
+
+// zakomentowane zosta³y fragmenty kodu s³u¿¹ce do obliczania czasu
+// aby nie zaburzaæ czasu trwania obliczeñ
+
+
 
 __device__ __host__ unsigned int positionToSquare(float x, float y, int amountOfSquaresRow, float squareWidth)
 {
@@ -145,7 +151,9 @@ __global__ void updateVelocitiesKernel(const unsigned int amountOfFish, int amou
 	float cy = y[index];
 	float cvx = vx1[index];
 	float cvy = vy1[index];
+
 	unsigned int numberOfNeighbours = 0;
+	unsigned int numberOfSafeZone = 0;
 
 	float xAvgPos = 0.0f;
 	float yAvgPos = 0.0f;
@@ -260,12 +268,13 @@ __global__ void updateVelocitiesKernel(const unsigned int amountOfFish, int amou
 	vy2[index] = vy;
 }
 
-CudaFishSpecies::CudaFishSpecies(const char* cfgFile): threads{512}
+CudaFishSpecies::CudaFishSpecies(const char* cfgFile, const char* outPath): threads{512}, out{outPath}
 {
 	// load parameters from config file
 	loadData(cfgFile);
 	// setup shader data
 	shaderSetup();
+
 
 	blocks = ceilf(amountOfFish / (float)threads);
 	squareWidth = 2.0f * sqrtf(viewZoneRadiusSQ);
@@ -355,9 +364,9 @@ void CudaFishSpecies::loadData(const char* path)
 	input >> tmp;
 	input >> centeringFactor;
 	input >> tmp;
-	input >> matchingfactor;
+	input >> matchingFactor;
 	input >> tmp;
-	input >> turnfactor;
+	input >> turnFactor;
 	input >> tmp;
 	input >> margin;
 	input >> tmp;
@@ -367,8 +376,6 @@ void CudaFishSpecies::loadData(const char* path)
 	input >> tmp;
 	input >> color.b;
 	input.close();
-
-	viewZoneRadius = sqrtf(viewZoneRadiusSQ);
 }
 CudaFishSpecies::~CudaFishSpecies()
 {
@@ -387,11 +394,13 @@ CudaFishSpecies::~CudaFishSpecies()
 	glDeleteBuffers(1, &vboy);
 	glDeleteBuffers(1, &vbovx);
 	glDeleteBuffers(1, &vbovy);
+	out.close();
 }
 
 void CudaFishSpecies::updatePosition(float xMouse, float yMouse)
 {
 	//auto start = std::chrono::high_resolution_clock().now();
+	
 	// compute which grid block corresponds to which fish
 	computeIndicesKern<<<blocks, threads>>>(amountOfFish, gridSideCount, squareWidth, dev_x, dev_y, dev_fish_mapping, dev_fish_to_grid);
 	gpuErrchk(cudaGetLastError());
@@ -407,6 +416,7 @@ void CudaFishSpecies::updatePosition(float xMouse, float yMouse)
 	// calculate how many blocks is needed
 	int blocksCell = ceilf((gridSideCount * gridSideCount) / (float)threads);
 
+
 	// set the start and end grid array to -1
 	resetIntBufferKern<< <blocksCell, threads>> > (gridSideCount * gridSideCount, dev_grid_cell_start, -1);
 	resetIntBufferKern << <blocksCell, threads>> > (gridSideCount * gridSideCount, dev_grid_cell_end, -1);
@@ -420,7 +430,7 @@ void CudaFishSpecies::updatePosition(float xMouse, float yMouse)
 
 	//auto end = std::chrono::high_resolution_clock().now();
 	//auto dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
-	//std::cout << "grid setup" << dur << std::endl;
+	//out << "grid setup: " << dur << std::endl;
 
 
 	thrust::device_ptr<float> thrust_x{ dev_x };
@@ -428,33 +438,47 @@ void CudaFishSpecies::updatePosition(float xMouse, float yMouse)
 	thrust::device_ptr<float> thrust_vx{ dev_vx };
 	thrust::device_ptr<float> thrust_vy{ dev_vy };
 
+	//start = std::chrono::high_resolution_clock().now();
+	
 	// calculate new velocities
 	updateVelocitiesKernel << <blocks, threads >> > (amountOfFish, gridSideCount, safeZoneRadiusSQ, viewZoneRadiusSQ, squareWidth,
-		maxSpeed, minSpeed, avoidFactor, centeringFactor, matchingfactor, turnfactor, margin, xMouse, yMouse,
+		maxSpeed, minSpeed, avoidFactor, centeringFactor, matchingFactor, turnFactor, margin, xMouse, yMouse,
 		dev_grid_cell_start, dev_grid_cell_end, dev_fish_mapping, dev_x, dev_y, dev_vx,
 		dev_vy, dev_new_vx, dev_new_vy);
 
 	gpuErrchk(cudaGetLastError());
 	gpuErrchk(cudaDeviceSynchronize());
 
+	//end = std::chrono::high_resolution_clock().now();
+	//dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+	//out << "calculate velocity: : " << dur << std::endl;
+
 	thrust::device_ptr<float> thrust_new_vx{ dev_new_vx };
 	thrust::device_ptr<float> thrust_new_vy{ dev_new_vy };
+
+	//start = std::chrono::high_resolution_clock().now();
+
 	// update position
 	thrust::transform(thrust_x, thrust_x + amountOfFish, thrust_new_vx, thrust_x, thrust::plus<float>());
 	thrust::transform(thrust_y, thrust_y + amountOfFish, thrust_new_vy, thrust_y, thrust::plus<float>());
 	
+	//end = std::chrono::high_resolution_clock().now();
+	//dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+	//out << "update position: " << dur << std::endl;
+
 	// swap velocities
 	std::swap(dev_vx, dev_new_vx);
 	std::swap(dev_vy, dev_new_vy);
 }
 
-void CudaFishSpecies::setShaderData(Shader shader)
+void CudaFishSpecies::setShaderData(Shader& shader)
 {
 	shader.setVec3("color", color);
 }
 
 void CudaFishSpecies::renderData()
 {
+	//auto start = std::chrono::high_resolution_clock().now();
 	float *x, *y, *vx, *vy;
 	cudaGLMapBufferObject((void**)&x, vbox);
 	cudaGLMapBufferObject((void**)&y, vboy);
@@ -473,7 +497,11 @@ void CudaFishSpecies::renderData()
 	cudaGLUnmapBufferObject(vbovx);
 	cudaGLUnmapBufferObject(vbovy);
 
+
 	glBindVertexArray(vao);
 	glDrawArrays(GL_POINTS, 0, amountOfFish);
 
+	//auto end = std::chrono::high_resolution_clock().now();
+	//auto dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+	//out << "Pass data to opengl: " << dur << std::endl;
 }

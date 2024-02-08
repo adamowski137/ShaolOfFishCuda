@@ -4,11 +4,14 @@
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <vector>
-#include <fstream>
+#include <chrono>
 
 #define getDistanceSQ(x1, y1, x2, y2)	(x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2)
 
-FishSpecies::FishSpecies(const char* path)
+// zakomentowane zosta³y fragmenty kodu s³u¿¹ce do obliczania czasu
+// aby nie zaburzaæ czasu trwania obliczeñ
+
+FishSpecies::FishSpecies(const char* path, const char* outPath): out{outPath}
 {
 	// load all the parameters from a configuration file
 	loadData(path);
@@ -47,6 +50,7 @@ FishSpecies::FishSpecies(const char* path)
 
 FishSpecies::~FishSpecies()
 {
+	out.close();
 	delete[] fishPositionX;
 	delete[] fishPositionY;
 	delete[] fishVelocityX;
@@ -130,7 +134,7 @@ void FishSpecies::renderData()
 	glDrawArrays(GL_POINTS, 0, amountOfFish);
 }
 
-void FishSpecies::setShaderData(Shader shader)
+void FishSpecies::setShaderData(Shader& shader)
 {
 	shader.setVec3("color", color);
 }
@@ -291,6 +295,7 @@ int FishSpecies::positionToSquare(float x, float y)
 void FishSpecies::bufferData()
 {
 	// function responsible for passing data to shaders
+
 	glBindBuffer(GL_ARRAY_BUFFER, vbox);
 	glBufferData(GL_ARRAY_BUFFER, sizeof(float) * amountOfFish, fishPositionX, GL_STREAM_DRAW);
 	glVertexAttribPointer(0, 1, GL_FLOAT, GL_FALSE, 0, nullptr);
@@ -309,14 +314,25 @@ void FishSpecies::bufferData()
 	glBindBuffer(GL_ARRAY_BUFFER, vbovy);
 	glBufferData(GL_ARRAY_BUFFER, sizeof(float) * amountOfFish, fishVelocityY, GL_STREAM_DRAW);
 	glVertexAttribPointer(3, 1, GL_FLOAT, GL_FALSE, 0, nullptr);
-	glEnableVertexAttribArray(1);
+	glEnableVertexAttribArray(3);
 
 	glBindVertexArray(vao);
 }
 
 void FishSpecies::updatePosition(float xMouse, float yMouse)
 {
+	//auto start = std::chrono::high_resolution_clock().now();
+
+	// calculate fish new velocity
 	updateFishVelocity(xMouse, yMouse);
+
+	//auto end = std::chrono::high_resolution_clock().now();
+	//auto dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+	//out << "Calculate velocity: " << dur << std::endl;
+
+	//start = std::chrono::high_resolution_clock().now();
+	
+	// and update them accordingly
 	for (unsigned int i = 0; i < amountOfFish; i++)
 	{
 		int prevIdx = positionToSquare(fishPositionX[i], fishPositionY[i]);
@@ -330,4 +346,7 @@ void FishSpecies::updatePosition(float xMouse, float yMouse)
 			squares[newIdx].insert(i);
 		}
 	}
+	//end = std::chrono::high_resolution_clock().now();
+	//dur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+	//out << "Update postion: " << dur << std::endl;
 }

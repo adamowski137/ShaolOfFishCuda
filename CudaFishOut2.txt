@@ -1,0 +1,6444 @@
+grid setup: 338
+calculate velocity: : 225
+update position: 75
+Pass data to opengl: 387
+grid setup: 548
+calculate velocity: : 222
+update position: 54
+Pass data to opengl: 490
+grid setup: 670
+calculate velocity: : 217
+update position: 62
+Pass data to opengl: 367
+grid setup: 549
+calculate velocity: : 229
+update position: 63
+Pass data to opengl: 479
+grid setup: 667
+calculate velocity: : 218
+update position: 62
+Pass data to opengl: 356
+grid setup: 624
+calculate velocity: : 214
+update position: 67
+Pass data to opengl: 486
+grid setup: 582
+calculate velocity: : 223
+update position: 81
+Pass data to opengl: 894
+grid setup: 1165
+calculate velocity: : 309
+update position: 503
+Pass data to opengl: 479
+grid setup: 665
+calculate velocity: : 219
+update position: 69
+Pass data to opengl: 381
+grid setup: 663
+calculate velocity: : 220
+update position: 70
+Pass data to opengl: 365
+grid setup: 556
+calculate velocity: : 221
+update position: 66
+Pass data to opengl: 543
+grid setup: 639
+calculate velocity: : 220
+update position: 70
+Pass data to opengl: 487
+grid setup: 646
+calculate velocity: : 224
+update position: 70
+Pass data to opengl: 428
+grid setup: 407
+calculate velocity: : 220
+update position: 69
+Pass data to opengl: 566
+grid setup: 672
+calculate velocity: : 227
+update position: 86
+Pass data to opengl: 536
+grid setup: 680
+calculate velocity: : 235
+update position: 97
+Pass data to opengl: 547
+grid setup: 756
+calculate velocity: : 236
+update position: 152
+Pass data to opengl: 590
+grid setup: 661
+calculate velocity: : 220
+update position: 68
+Pass data to opengl: 379
+grid setup: 666
+calculate velocity: : 222
+update position: 69
+Pass data to opengl: 369
+grid setup: 628
+calculate velocity: : 220
+update position: 68
+Pass data to opengl: 494
+grid setup: 639
+calculate velocity: : 224
+update position: 77
+Pass data to opengl: 432
+grid setup: 652
+calculate velocity: : 244
+update position: 92
+Pass data to opengl: 426
+grid setup: 1103
+calculate velocity: : 224
+update position: 72
+Pass data to opengl: 392
+grid setup: 615
+calculate velocity: : 217
+update position: 66
+Pass data to opengl: 392
+grid setup: 616
+calculate velocity: : 223
+update position: 71
+Pass data to opengl: 491
+grid setup: 606
+calculate velocity: : 227
+update position: 71
+Pass data to opengl: 500
+grid setup: 613
+calculate velocity: : 225
+update position: 67
+Pass data to opengl: 395
+grid setup: 579
+calculate velocity: : 224
+update position: 75
+Pass data to opengl: 517
+grid setup: 578
+calculate velocity: : 229
+update position: 70
+Pass data to opengl: 393
+grid setup: 619
+calculate velocity: : 224
+update position: 66
+Pass data to opengl: 497
+grid setup: 645
+calculate velocity: : 228
+update position: 76
+Pass data to opengl: 383
+grid setup: 679
+calculate velocity: : 226
+update position: 67
+Pass data to opengl: 378
+grid setup: 662
+calculate velocity: : 229
+update position: 74
+Pass data to opengl: 385
+grid setup: 629
+calculate velocity: : 225
+update position: 65
+Pass data to opengl: 381
+grid setup: 676
+calculate velocity: : 234
+update position: 70
+Pass data to opengl: 435
+grid setup: 638
+calculate velocity: : 226
+update position: 69
+Pass data to opengl: 554
+grid setup: 668
+calculate velocity: : 232
+update position: 75
+Pass data to opengl: 380
+grid setup: 618
+calculate velocity: : 232
+update position: 66
+Pass data to opengl: 629
+grid setup: 653
+calculate velocity: : 232
+update position: 66
+Pass data to opengl: 386
+grid setup: 1096
+calculate velocity: : 337
+update position: 68
+Pass data to opengl: 391
+grid setup: 663
+calculate velocity: : 232
+update position: 69
+Pass data to opengl: 385
+grid setup: 678
+calculate velocity: : 236
+update position: 89
+Pass data to opengl: 388
+grid setup: 668
+calculate velocity: : 241
+update position: 71
+Pass data to opengl: 436
+grid setup: 542
+calculate velocity: : 236
+update position: 95
+Pass data to opengl: 430
+grid setup: 628
+calculate velocity: : 240
+update position: 108
+Pass data to opengl: 402
+grid setup: 652
+calculate velocity: : 231
+update position: 124
+Pass data to opengl: 441
+grid setup: 726
+calculate velocity: : 267
+update position: 85
+Pass data to opengl: 377
+grid setup: 648
+calculate velocity: : 236
+update position: 72
+Pass data to opengl: 399
+grid setup: 634
+calculate velocity: : 243
+update position: 120
+Pass data to opengl: 394
+grid setup: 735
+calculate velocity: : 248
+update position: 74
+Pass data to opengl: 415
+grid setup: 645
+calculate velocity: : 239
+update position: 67
+Pass data to opengl: 359
+grid setup: 614
+calculate velocity: : 233
+update position: 64
+Pass data to opengl: 380
+grid setup: 668
+calculate velocity: : 239
+update position: 70
+Pass data to opengl: 371
+grid setup: 707
+calculate velocity: : 235
+update position: 112
+Pass data to opengl: 480
+grid setup: 669
+calculate velocity: : 242
+update position: 69
+Pass data to opengl: 361
+grid setup: 633
+calculate velocity: : 239
+update position: 66
+Pass data to opengl: 363
+grid setup: 655
+calculate velocity: : 275
+update position: 85
+Pass data to opengl: 471
+grid setup: 723
+calculate velocity: : 271
+update position: 70
+Pass data to opengl: 382
+grid setup: 617
+calculate velocity: : 246
+update position: 87
+Pass data to opengl: 395
+grid setup: 708
+calculate velocity: : 239
+update position: 69
+Pass data to opengl: 485
+grid setup: 636
+calculate velocity: : 246
+update position: 67
+Pass data to opengl: 393
+grid setup: 780
+calculate velocity: : 243
+update position: 70
+Pass data to opengl: 425
+grid setup: 486
+calculate velocity: : 247
+update position: 67
+Pass data to opengl: 385
+grid setup: 618
+calculate velocity: : 248
+update position: 77
+Pass data to opengl: 380
+grid setup: 619
+calculate velocity: : 248
+update position: 68
+Pass data to opengl: 413
+grid setup: 730
+calculate velocity: : 246
+update position: 72
+Pass data to opengl: 491
+grid setup: 622
+calculate velocity: : 250
+update position: 68
+Pass data to opengl: 398
+grid setup: 568
+calculate velocity: : 248
+update position: 69
+Pass data to opengl: 495
+grid setup: 690
+calculate velocity: : 259
+update position: 313
+Pass data to opengl: 433
+grid setup: 921
+calculate velocity: : 245
+update position: 259
+Pass data to opengl: 505
+grid setup: 561
+calculate velocity: : 249
+update position: 70
+Pass data to opengl: 378
+grid setup: 636
+calculate velocity: : 246
+update position: 67
+Pass data to opengl: 383
+grid setup: 729
+calculate velocity: : 251
+update position: 68
+Pass data to opengl: 386
+grid setup: 680
+calculate velocity: : 252
+update position: 69
+Pass data to opengl: 374
+grid setup: 575
+calculate velocity: : 250
+update position: 73
+Pass data to opengl: 380
+grid setup: 560
+calculate velocity: : 256
+update position: 69
+Pass data to opengl: 492
+grid setup: 617
+calculate velocity: : 255
+update position: 68
+Pass data to opengl: 456
+grid setup: 640
+calculate velocity: : 254
+update position: 68
+Pass data to opengl: 414
+grid setup: 618
+calculate velocity: : 258
+update position: 72
+Pass data to opengl: 454
+grid setup: 495
+calculate velocity: : 254
+update position: 68
+Pass data to opengl: 452
+grid setup: 606
+calculate velocity: : 254
+update position: 66
+Pass data to opengl: 490
+grid setup: 671
+calculate velocity: : 255
+update position: 67
+Pass data to opengl: 490
+grid setup: 635
+calculate velocity: : 263
+update position: 500
+Pass data to opengl: 493
+grid setup: 642
+calculate velocity: : 255
+update position: 76
+Pass data to opengl: 396
+grid setup: 1090
+calculate velocity: : 378
+update position: 71
+Pass data to opengl: 379
+grid setup: 678
+calculate velocity: : 256
+update position: 69
+Pass data to opengl: 365
+grid setup: 651
+calculate velocity: : 261
+update position: 78
+Pass data to opengl: 475
+grid setup: 681
+calculate velocity: : 257
+update position: 69
+Pass data to opengl: 363
+grid setup: 634
+calculate velocity: : 263
+update position: 74
+Pass data to opengl: 410
+grid setup: 617
+calculate velocity: : 258
+update position: 70
+Pass data to opengl: 380
+grid setup: 650
+calculate velocity: : 276
+update position: 71
+Pass data to opengl: 389
+grid setup: 667
+calculate velocity: : 257
+update position: 66
+Pass data to opengl: 388
+grid setup: 560
+calculate velocity: : 263
+update position: 77
+Pass data to opengl: 374
+grid setup: 681
+calculate velocity: : 265
+update position: 86
+Pass data to opengl: 419
+grid setup: 673
+calculate velocity: : 266
+update position: 68
+Pass data to opengl: 362
+grid setup: 791
+calculate velocity: : 265
+update position: 88
+Pass data to opengl: 448
+grid setup: 671
+calculate velocity: : 269
+update position: 69
+Pass data to opengl: 361
+grid setup: 669
+calculate velocity: : 264
+update position: 68
+Pass data to opengl: 375
+grid setup: 677
+calculate velocity: : 268
+update position: 73
+Pass data to opengl: 387
+grid setup: 878
+calculate velocity: : 269
+update position: 70
+Pass data to opengl: 366
+grid setup: 1132
+calculate velocity: : 274
+update position: 70
+Pass data to opengl: 392
+grid setup: 650
+calculate velocity: : 266
+update position: 67
+Pass data to opengl: 392
+grid setup: 670
+calculate velocity: : 270
+update position: 68
+Pass data to opengl: 323
+grid setup: 666
+calculate velocity: : 268
+update position: 66
+Pass data to opengl: 364
+grid setup: 652
+calculate velocity: : 282
+update position: 85
+Pass data to opengl: 444
+grid setup: 608
+calculate velocity: : 270
+update position: 68
+Pass data to opengl: 371
+grid setup: 653
+calculate velocity: : 278
+update position: 68
+Pass data to opengl: 392
+grid setup: 646
+calculate velocity: : 276
+update position: 74
+Pass data to opengl: 410
+grid setup: 663
+calculate velocity: : 297
+update position: 69
+Pass data to opengl: 391
+grid setup: 577
+calculate velocity: : 273
+update position: 67
+Pass data to opengl: 409
+grid setup: 675
+calculate velocity: : 303
+update position: 76
+Pass data to opengl: 417
+grid setup: 668
+calculate velocity: : 275
+update position: 66
+Pass data to opengl: 377
+grid setup: 692
+calculate velocity: : 294
+update position: 75
+Pass data to opengl: 403
+grid setup: 608
+calculate velocity: : 309
+update position: 74
+Pass data to opengl: 378
+grid setup: 681
+calculate velocity: : 312
+update position: 83
+Pass data to opengl: 433
+grid setup: 953
+calculate velocity: : 575
+update position: 270
+Pass data to opengl: 443
+grid setup: 674
+calculate velocity: : 312
+update position: 69
+Pass data to opengl: 362
+grid setup: 665
+calculate velocity: : 292
+update position: 68
+Pass data to opengl: 358
+grid setup: 699
+calculate velocity: : 281
+update position: 70
+Pass data to opengl: 381
+grid setup: 632
+calculate velocity: : 323
+update position: 68
+Pass data to opengl: 373
+grid setup: 640
+calculate velocity: : 321
+update position: 110
+Pass data to opengl: 394
+grid setup: 667
+calculate velocity: : 305
+update position: 70
+Pass data to opengl: 367
+grid setup: 651
+calculate velocity: : 318
+update position: 75
+Pass data to opengl: 411
+grid setup: 675
+calculate velocity: : 306
+update position: 69
+Pass data to opengl: 366
+grid setup: 543
+calculate velocity: : 326
+update position: 73
+Pass data to opengl: 399
+grid setup: 568
+calculate velocity: : 321
+update position: 65
+Pass data to opengl: 410
+grid setup: 672
+calculate velocity: : 311
+update position: 69
+Pass data to opengl: 451
+grid setup: 649
+calculate velocity: : 302
+update position: 67
+Pass data to opengl: 366
+grid setup: 657
+calculate velocity: : 310
+update position: 77
+Pass data to opengl: 413
+grid setup: 570
+calculate velocity: : 326
+update position: 120
+Pass data to opengl: 514
+grid setup: 791
+calculate velocity: : 371
+update position: 93
+Pass data to opengl: 402
+grid setup: 736
+calculate velocity: : 329
+update position: 90
+Pass data to opengl: 415
+grid setup: 623
+calculate velocity: : 324
+update position: 69
+Pass data to opengl: 389
+grid setup: 667
+calculate velocity: : 326
+update position: 73
+Pass data to opengl: 370
+grid setup: 806
+calculate velocity: : 324
+update position: 88
+Pass data to opengl: 390
+grid setup: 775
+calculate velocity: : 321
+update position: 88
+Pass data to opengl: 412
+grid setup: 636
+calculate velocity: : 325
+update position: 68
+Pass data to opengl: 379
+grid setup: 668
+calculate velocity: : 331
+update position: 65
+Pass data to opengl: 383
+grid setup: 673
+calculate velocity: : 325
+update position: 66
+Pass data to opengl: 411
+grid setup: 667
+calculate velocity: : 333
+update position: 73
+Pass data to opengl: 387
+grid setup: 621
+calculate velocity: : 336
+update position: 69
+Pass data to opengl: 440
+grid setup: 669
+calculate velocity: : 334
+update position: 67
+Pass data to opengl: 362
+grid setup: 673
+calculate velocity: : 358
+update position: 72
+Pass data to opengl: 383
+grid setup: 574
+calculate velocity: : 338
+update position: 66
+Pass data to opengl: 384
+grid setup: 642
+calculate velocity: : 344
+update position: 78
+Pass data to opengl: 415
+grid setup: 652
+calculate velocity: : 333
+update position: 114
+Pass data to opengl: 398
+grid setup: 1061
+calculate velocity: : 632
+update position: 71
+Pass data to opengl: 449
+grid setup: 659
+calculate velocity: : 340
+update position: 73
+Pass data to opengl: 389
+grid setup: 671
+calculate velocity: : 343
+update position: 67
+Pass data to opengl: 363
+grid setup: 689
+calculate velocity: : 358
+update position: 68
+Pass data to opengl: 400
+grid setup: 620
+calculate velocity: : 360
+update position: 68
+Pass data to opengl: 381
+grid setup: 658
+calculate velocity: : 348
+update position: 76
+Pass data to opengl: 363
+grid setup: 702
+calculate velocity: : 351
+update position: 71
+Pass data to opengl: 401
+grid setup: 661
+calculate velocity: : 344
+update position: 69
+Pass data to opengl: 382
+grid setup: 673
+calculate velocity: : 355
+update position: 67
+Pass data to opengl: 387
+grid setup: 660
+calculate velocity: : 375
+update position: 67
+Pass data to opengl: 383
+grid setup: 612
+calculate velocity: : 365
+update position: 92
+Pass data to opengl: 398
+grid setup: 1321
+calculate velocity: : 704
+update position: 70
+Pass data to opengl: 502
+grid setup: 624
+calculate velocity: : 356
+update position: 67
+Pass data to opengl: 556
+grid setup: 572
+calculate velocity: : 377
+update position: 72
+Pass data to opengl: 511
+grid setup: 655
+calculate velocity: : 373
+update position: 67
+Pass data to opengl: 399
+grid setup: 1112
+calculate velocity: : 364
+update position: 69
+Pass data to opengl: 439
+grid setup: 1099
+calculate velocity: : 487
+update position: 76
+Pass data to opengl: 395
+grid setup: 578
+calculate velocity: : 381
+update position: 68
+Pass data to opengl: 381
+grid setup: 647
+calculate velocity: : 375
+update position: 68
+Pass data to opengl: 386
+grid setup: 657
+calculate velocity: : 371
+update position: 65
+Pass data to opengl: 381
+grid setup: 584
+calculate velocity: : 416
+update position: 80
+Pass data to opengl: 360
+grid setup: 974
+calculate velocity: : 403
+update position: 77
+Pass data to opengl: 465
+grid setup: 678
+calculate velocity: : 387
+update position: 75
+Pass data to opengl: 408
+grid setup: 789
+calculate velocity: : 415
+update position: 73
+Pass data to opengl: 382
+grid setup: 666
+calculate velocity: : 385
+update position: 71
+Pass data to opengl: 365
+grid setup: 765
+calculate velocity: : 380
+update position: 88
+Pass data to opengl: 410
+grid setup: 614
+calculate velocity: : 389
+update position: 77
+Pass data to opengl: 392
+grid setup: 649
+calculate velocity: : 414
+update position: 70
+Pass data to opengl: 503
+grid setup: 580
+calculate velocity: : 410
+update position: 76
+Pass data to opengl: 511
+grid setup: 623
+calculate velocity: : 404
+update position: 73
+Pass data to opengl: 487
+grid setup: 651
+calculate velocity: : 421
+update position: 78
+Pass data to opengl: 511
+grid setup: 1130
+calculate velocity: : 426
+update position: 68
+Pass data to opengl: 381
+grid setup: 664
+calculate velocity: : 410
+update position: 67
+Pass data to opengl: 375
+grid setup: 613
+calculate velocity: : 403
+update position: 72
+Pass data to opengl: 429
+grid setup: 719
+calculate velocity: : 412
+update position: 77
+Pass data to opengl: 398
+grid setup: 621
+calculate velocity: : 406
+update position: 70
+Pass data to opengl: 434
+grid setup: 623
+calculate velocity: : 395
+update position: 67
+Pass data to opengl: 539
+grid setup: 574
+calculate velocity: : 401
+update position: 73
+Pass data to opengl: 492
+grid setup: 619
+calculate velocity: : 395
+update position: 69
+Pass data to opengl: 385
+grid setup: 623
+calculate velocity: : 401
+update position: 68
+Pass data to opengl: 488
+grid setup: 672
+calculate velocity: : 401
+update position: 71
+Pass data to opengl: 487
+grid setup: 571
+calculate velocity: : 409
+update position: 71
+Pass data to opengl: 415
+grid setup: 570
+calculate velocity: : 425
+update position: 67
+Pass data to opengl: 479
+grid setup: 612
+calculate velocity: : 416
+update position: 75
+Pass data to opengl: 474
+grid setup: 659
+calculate velocity: : 418
+update position: 70
+Pass data to opengl: 416
+grid setup: 587
+calculate velocity: : 414
+update position: 93
+Pass data to opengl: 490
+grid setup: 1081
+calculate velocity: : 733
+update position: 78
+Pass data to opengl: 400
+grid setup: 618
+calculate velocity: : 519
+update position: 93
+Pass data to opengl: 530
+grid setup: 647
+calculate velocity: : 416
+update position: 70
+Pass data to opengl: 385
+grid setup: 658
+calculate velocity: : 423
+update position: 70
+Pass data to opengl: 383
+grid setup: 665
+calculate velocity: : 434
+update position: 73
+Pass data to opengl: 355
+grid setup: 602
+calculate velocity: : 426
+update position: 65
+Pass data to opengl: 382
+grid setup: 664
+calculate velocity: : 440
+update position: 73
+Pass data to opengl: 493
+grid setup: 665
+calculate velocity: : 432
+update position: 72
+Pass data to opengl: 354
+grid setup: 560
+calculate velocity: : 441
+update position: 68
+Pass data to opengl: 528
+grid setup: 599
+calculate velocity: : 460
+update position: 89
+Pass data to opengl: 414
+grid setup: 713
+calculate velocity: : 450
+update position: 68
+Pass data to opengl: 399
+grid setup: 523
+calculate velocity: : 452
+update position: 77
+Pass data to opengl: 516
+grid setup: 621
+calculate velocity: : 477
+update position: 72
+Pass data to opengl: 476
+grid setup: 619
+calculate velocity: : 443
+update position: 69
+Pass data to opengl: 475
+grid setup: 616
+calculate velocity: : 456
+update position: 75
+Pass data to opengl: 528
+grid setup: 656
+calculate velocity: : 664
+update position: 289
+Pass data to opengl: 402
+grid setup: 818
+calculate velocity: : 468
+update position: 87
+Pass data to opengl: 456
+grid setup: 656
+calculate velocity: : 446
+update position: 74
+Pass data to opengl: 364
+grid setup: 689
+calculate velocity: : 465
+update position: 74
+Pass data to opengl: 375
+grid setup: 662
+calculate velocity: : 460
+update position: 68
+Pass data to opengl: 390
+grid setup: 707
+calculate velocity: : 468
+update position: 72
+Pass data to opengl: 384
+grid setup: 626
+calculate velocity: : 476
+update position: 74
+Pass data to opengl: 512
+grid setup: 619
+calculate velocity: : 463
+update position: 69
+Pass data to opengl: 485
+grid setup: 578
+calculate velocity: : 472
+update position: 70
+Pass data to opengl: 378
+grid setup: 666
+calculate velocity: : 467
+update position: 75
+Pass data to opengl: 422
+grid setup: 576
+calculate velocity: : 462
+update position: 68
+Pass data to opengl: 488
+grid setup: 591
+calculate velocity: : 482
+update position: 64
+Pass data to opengl: 334
+grid setup: 618
+calculate velocity: : 465
+update position: 75
+Pass data to opengl: 425
+grid setup: 772
+calculate velocity: : 472
+update position: 90
+Pass data to opengl: 407
+grid setup: 661
+calculate velocity: : 468
+update position: 76
+Pass data to opengl: 372
+grid setup: 630
+calculate velocity: : 471
+update position: 93
+Pass data to opengl: 401
+grid setup: 1065
+calculate velocity: : 590
+update position: 64
+Pass data to opengl: 378
+grid setup: 701
+calculate velocity: : 480
+update position: 75
+Pass data to opengl: 378
+grid setup: 664
+calculate velocity: : 476
+update position: 72
+Pass data to opengl: 396
+grid setup: 603
+calculate velocity: : 468
+update position: 70
+Pass data to opengl: 514
+grid setup: 589
+calculate velocity: : 473
+update position: 74
+Pass data to opengl: 455
+grid setup: 621
+calculate velocity: : 496
+update position: 71
+Pass data to opengl: 500
+grid setup: 623
+calculate velocity: : 482
+update position: 73
+Pass data to opengl: 502
+grid setup: 667
+calculate velocity: : 478
+update position: 76
+Pass data to opengl: 361
+grid setup: 669
+calculate velocity: : 478
+update position: 74
+Pass data to opengl: 423
+grid setup: 735
+calculate velocity: : 488
+update position: 69
+Pass data to opengl: 371
+grid setup: 671
+calculate velocity: : 480
+update position: 75
+Pass data to opengl: 372
+grid setup: 673
+calculate velocity: : 492
+update position: 76
+Pass data to opengl: 393
+grid setup: 663
+calculate velocity: : 483
+update position: 69
+Pass data to opengl: 389
+grid setup: 622
+calculate velocity: : 489
+update position: 73
+Pass data to opengl: 504
+grid setup: 647
+calculate velocity: : 481
+update position: 96
+Pass data to opengl: 492
+grid setup: 734
+calculate velocity: : 500
+update position: 72
+Pass data to opengl: 387
+grid setup: 783
+calculate velocity: : 491
+update position: 87
+Pass data to opengl: 422
+grid setup: 667
+calculate velocity: : 497
+update position: 73
+Pass data to opengl: 374
+grid setup: 671
+calculate velocity: : 488
+update position: 73
+Pass data to opengl: 378
+grid setup: 685
+calculate velocity: : 501
+update position: 71
+Pass data to opengl: 406
+grid setup: 672
+calculate velocity: : 489
+update position: 71
+Pass data to opengl: 363
+grid setup: 669
+calculate velocity: : 504
+update position: 69
+Pass data to opengl: 366
+grid setup: 721
+calculate velocity: : 501
+update position: 72
+Pass data to opengl: 427
+grid setup: 670
+calculate velocity: : 492
+update position: 73
+Pass data to opengl: 360
+grid setup: 674
+calculate velocity: : 502
+update position: 68
+Pass data to opengl: 383
+grid setup: 667
+calculate velocity: : 506
+update position: 78
+Pass data to opengl: 370
+grid setup: 683
+calculate velocity: : 496
+update position: 68
+Pass data to opengl: 375
+grid setup: 668
+calculate velocity: : 509
+update position: 71
+Pass data to opengl: 410
+grid setup: 775
+calculate velocity: : 519
+update position: 88
+Pass data to opengl: 404
+grid setup: 559
+calculate velocity: : 512
+update position: 73
+Pass data to opengl: 428
+grid setup: 843
+calculate velocity: : 524
+update position: 76
+Pass data to opengl: 449
+grid setup: 766
+calculate velocity: : 518
+update position: 90
+Pass data to opengl: 400
+grid setup: 667
+calculate velocity: : 510
+update position: 67
+Pass data to opengl: 380
+grid setup: 675
+calculate velocity: : 512
+update position: 76
+Pass data to opengl: 403
+grid setup: 600
+calculate velocity: : 500
+update position: 68
+Pass data to opengl: 367
+grid setup: 670
+calculate velocity: : 521
+update position: 73
+Pass data to opengl: 387
+grid setup: 775
+calculate velocity: : 505
+update position: 73
+Pass data to opengl: 421
+grid setup: 674
+calculate velocity: : 519
+update position: 97
+Pass data to opengl: 359
+grid setup: 656
+calculate velocity: : 505
+update position: 68
+Pass data to opengl: 375
+grid setup: 772
+calculate velocity: : 519
+update position: 88
+Pass data to opengl: 467
+grid setup: 570
+calculate velocity: : 523
+update position: 73
+Pass data to opengl: 385
+grid setup: 626
+calculate velocity: : 514
+update position: 67
+Pass data to opengl: 494
+grid setup: 586
+calculate velocity: : 511
+update position: 74
+Pass data to opengl: 566
+grid setup: 571
+calculate velocity: : 520
+update position: 74
+Pass data to opengl: 456
+grid setup: 619
+calculate velocity: : 520
+update position: 66
+Pass data to opengl: 414
+grid setup: 889
+calculate velocity: : 694
+update position: 174
+Pass data to opengl: 437
+grid setup: 781
+calculate velocity: : 524
+update position: 91
+Pass data to opengl: 421
+grid setup: 653
+calculate velocity: : 523
+update position: 72
+Pass data to opengl: 492
+grid setup: 665
+calculate velocity: : 505
+update position: 69
+Pass data to opengl: 384
+grid setup: 734
+calculate velocity: : 499
+update position: 74
+Pass data to opengl: 368
+grid setup: 665
+calculate velocity: : 513
+update position: 60
+Pass data to opengl: 398
+grid setup: 666
+calculate velocity: : 527
+update position: 72
+Pass data to opengl: 380
+grid setup: 674
+calculate velocity: : 525
+update position: 74
+Pass data to opengl: 382
+grid setup: 684
+calculate velocity: : 533
+update position: 69
+Pass data to opengl: 422
+grid setup: 664
+calculate velocity: : 519
+update position: 70
+Pass data to opengl: 359
+grid setup: 653
+calculate velocity: : 528
+update position: 67
+Pass data to opengl: 368
+grid setup: 668
+calculate velocity: : 527
+update position: 69
+Pass data to opengl: 364
+grid setup: 612
+calculate velocity: : 521
+update position: 70
+Pass data to opengl: 395
+grid setup: 622
+calculate velocity: : 485
+update position: 65
+Pass data to opengl: 422
+grid setup: 683
+calculate velocity: : 514
+update position: 72
+Pass data to opengl: 382
+grid setup: 622
+calculate velocity: : 529
+update position: 69
+Pass data to opengl: 478
+grid setup: 665
+calculate velocity: : 512
+update position: 70
+Pass data to opengl: 429
+grid setup: 622
+calculate velocity: : 526
+update position: 65
+Pass data to opengl: 458
+grid setup: 667
+calculate velocity: : 540
+update position: 68
+Pass data to opengl: 378
+grid setup: 672
+calculate velocity: : 542
+update position: 67
+Pass data to opengl: 429
+grid setup: 709
+calculate velocity: : 548
+update position: 66
+Pass data to opengl: 377
+grid setup: 734
+calculate velocity: : 551
+update position: 67
+Pass data to opengl: 357
+grid setup: 672
+calculate velocity: : 515
+update position: 68
+Pass data to opengl: 421
+grid setup: 670
+calculate velocity: : 544
+update position: 69
+Pass data to opengl: 384
+grid setup: 632
+calculate velocity: : 568
+update position: 87
+Pass data to opengl: 398
+grid setup: 784
+calculate velocity: : 557
+update position: 69
+Pass data to opengl: 420
+grid setup: 650
+calculate velocity: : 553
+update position: 66
+Pass data to opengl: 385
+grid setup: 731
+calculate velocity: : 572
+update position: 67
+Pass data to opengl: 383
+grid setup: 668
+calculate velocity: : 506
+update position: 70
+Pass data to opengl: 364
+grid setup: 620
+calculate velocity: : 507
+update position: 65
+Pass data to opengl: 488
+grid setup: 620
+calculate velocity: : 517
+update position: 69
+Pass data to opengl: 493
+grid setup: 720
+calculate velocity: : 1050
+update position: 69
+Pass data to opengl: 439
+grid setup: 686
+calculate velocity: : 504
+update position: 70
+Pass data to opengl: 384
+grid setup: 672
+calculate velocity: : 532
+update position: 67
+Pass data to opengl: 414
+grid setup: 561
+calculate velocity: : 495
+update position: 67
+Pass data to opengl: 386
+grid setup: 571
+calculate velocity: : 496
+update position: 68
+Pass data to opengl: 494
+grid setup: 621
+calculate velocity: : 495
+update position: 74
+Pass data to opengl: 562
+grid setup: 606
+calculate velocity: : 500
+update position: 76
+Pass data to opengl: 442
+grid setup: 629
+calculate velocity: : 523
+update position: 87
+Pass data to opengl: 529
+grid setup: 743
+calculate velocity: : 521
+update position: 69
+Pass data to opengl: 533
+grid setup: 544
+calculate velocity: : 526
+update position: 69
+Pass data to opengl: 369
+grid setup: 582
+calculate velocity: : 512
+update position: 69
+Pass data to opengl: 470
+grid setup: 582
+calculate velocity: : 513
+update position: 68
+Pass data to opengl: 506
+grid setup: 700
+calculate velocity: : 516
+update position: 73
+Pass data to opengl: 348
+grid setup: 572
+calculate velocity: : 527
+update position: 89
+Pass data to opengl: 531
+grid setup: 561
+calculate velocity: : 543
+update position: 69
+Pass data to opengl: 453
+grid setup: 539
+calculate velocity: : 537
+update position: 78
+Pass data to opengl: 447
+grid setup: 966
+calculate velocity: : 820
+update position: 68
+Pass data to opengl: 390
+grid setup: 571
+calculate velocity: : 517
+update position: 77
+Pass data to opengl: 451
+grid setup: 670
+calculate velocity: : 527
+update position: 75
+Pass data to opengl: 389
+grid setup: 617
+calculate velocity: : 508
+update position: 71
+Pass data to opengl: 499
+grid setup: 579
+calculate velocity: : 525
+update position: 73
+Pass data to opengl: 547
+grid setup: 588
+calculate velocity: : 529
+update position: 74
+Pass data to opengl: 483
+grid setup: 566
+calculate velocity: : 520
+update position: 66
+Pass data to opengl: 507
+grid setup: 665
+calculate velocity: : 493
+update position: 67
+Pass data to opengl: 443
+grid setup: 669
+calculate velocity: : 513
+update position: 74
+Pass data to opengl: 385
+grid setup: 577
+calculate velocity: : 530
+update position: 71
+Pass data to opengl: 465
+grid setup: 623
+calculate velocity: : 511
+update position: 77
+Pass data to opengl: 593
+grid setup: 654
+calculate velocity: : 496
+update position: 68
+Pass data to opengl: 511
+grid setup: 526
+calculate velocity: : 518
+update position: 67
+Pass data to opengl: 403
+grid setup: 676
+calculate velocity: : 537
+update position: 70
+Pass data to opengl: 427
+grid setup: 670
+calculate velocity: : 529
+update position: 73
+Pass data to opengl: 411
+grid setup: 658
+calculate velocity: : 528
+update position: 75
+Pass data to opengl: 408
+grid setup: 580
+calculate velocity: : 523
+update position: 76
+Pass data to opengl: 421
+grid setup: 613
+calculate velocity: : 532
+update position: 89
+Pass data to opengl: 619
+grid setup: 624
+calculate velocity: : 530
+update position: 69
+Pass data to opengl: 501
+grid setup: 621
+calculate velocity: : 532
+update position: 67
+Pass data to opengl: 525
+grid setup: 620
+calculate velocity: : 533
+update position: 73
+Pass data to opengl: 493
+grid setup: 585
+calculate velocity: : 547
+update position: 76
+Pass data to opengl: 439
+grid setup: 628
+calculate velocity: : 537
+update position: 88
+Pass data to opengl: 536
+grid setup: 607
+calculate velocity: : 536
+update position: 73
+Pass data to opengl: 543
+grid setup: 553
+calculate velocity: : 531
+update position: 70
+Pass data to opengl: 527
+grid setup: 617
+calculate velocity: : 522
+update position: 74
+Pass data to opengl: 492
+grid setup: 585
+calculate velocity: : 522
+update position: 72
+Pass data to opengl: 439
+grid setup: 574
+calculate velocity: : 551
+update position: 69
+Pass data to opengl: 584
+grid setup: 559
+calculate velocity: : 515
+update position: 68
+Pass data to opengl: 499
+grid setup: 548
+calculate velocity: : 532
+update position: 89
+Pass data to opengl: 413
+grid setup: 740
+calculate velocity: : 707
+update position: 183
+Pass data to opengl: 458
+grid setup: 808
+calculate velocity: : 517
+update position: 88
+Pass data to opengl: 390
+grid setup: 560
+calculate velocity: : 523
+update position: 75
+Pass data to opengl: 391
+grid setup: 615
+calculate velocity: : 560
+update position: 81
+Pass data to opengl: 521
+grid setup: 669
+calculate velocity: : 517
+update position: 104
+Pass data to opengl: 367
+grid setup: 611
+calculate velocity: : 542
+update position: 76
+Pass data to opengl: 472
+grid setup: 637
+calculate velocity: : 462
+update position: 64
+Pass data to opengl: 541
+grid setup: 610
+calculate velocity: : 473
+update position: 88
+Pass data to opengl: 586
+grid setup: 603
+calculate velocity: : 459
+update position: 65
+Pass data to opengl: 358
+grid setup: 553
+calculate velocity: : 497
+update position: 66
+Pass data to opengl: 543
+grid setup: 656
+calculate velocity: : 519
+update position: 70
+Pass data to opengl: 367
+grid setup: 632
+calculate velocity: : 468
+update position: 72
+Pass data to opengl: 492
+grid setup: 614
+calculate velocity: : 479
+update position: 67
+Pass data to opengl: 552
+grid setup: 614
+calculate velocity: : 541
+update position: 72
+Pass data to opengl: 493
+grid setup: 618
+calculate velocity: : 480
+update position: 64
+Pass data to opengl: 482
+grid setup: 608
+calculate velocity: : 558
+update position: 119
+Pass data to opengl: 453
+grid setup: 1122
+calculate velocity: : 579
+update position: 75
+Pass data to opengl: 403
+grid setup: 640
+calculate velocity: : 539
+update position: 74
+Pass data to opengl: 392
+grid setup: 577
+calculate velocity: : 569
+update position: 70
+Pass data to opengl: 572
+grid setup: 584
+calculate velocity: : 490
+update position: 67
+Pass data to opengl: 504
+grid setup: 669
+calculate velocity: : 539
+update position: 67
+Pass data to opengl: 412
+grid setup: 578
+calculate velocity: : 539
+update position: 68
+Pass data to opengl: 507
+grid setup: 617
+calculate velocity: : 464
+update position: 65
+Pass data to opengl: 378
+grid setup: 638
+calculate velocity: : 472
+update position: 72
+Pass data to opengl: 379
+grid setup: 793
+calculate velocity: : 541
+update position: 79
+Pass data to opengl: 445
+grid setup: 749
+calculate velocity: : 475
+update position: 67
+Pass data to opengl: 454
+grid setup: 663
+calculate velocity: : 540
+update position: 71
+Pass data to opengl: 382
+grid setup: 733
+calculate velocity: : 468
+update position: 70
+Pass data to opengl: 419
+grid setup: 786
+calculate velocity: : 721
+update position: 91
+Pass data to opengl: 699
+grid setup: 1019
+calculate velocity: : 840
+update position: 57
+Pass data to opengl: 473
+grid setup: 910
+calculate velocity: : 706
+update position: 79
+Pass data to opengl: 474
+grid setup: 917
+calculate velocity: : 1233
+update position: 89
+Pass data to opengl: 567
+grid setup: 1547
+calculate velocity: : 1138
+update position: 72
+Pass data to opengl: 498
+grid setup: 947
+calculate velocity: : 723
+update position: 79
+Pass data to opengl: 432
+grid setup: 935
+calculate velocity: : 710
+update position: 82
+Pass data to opengl: 433
+grid setup: 995
+calculate velocity: : 841
+update position: 75
+Pass data to opengl: 475
+grid setup: 949
+calculate velocity: : 786
+update position: 71
+Pass data to opengl: 441
+grid setup: 943
+calculate velocity: : 849
+update position: 75
+Pass data to opengl: 429
+grid setup: 927
+calculate velocity: : 725
+update position: 76
+Pass data to opengl: 474
+grid setup: 1056
+calculate velocity: : 739
+update position: 72
+Pass data to opengl: 435
+grid setup: 957
+calculate velocity: : 727
+update position: 71
+Pass data to opengl: 459
+grid setup: 947
+calculate velocity: : 739
+update position: 79
+Pass data to opengl: 472
+grid setup: 949
+calculate velocity: : 715
+update position: 73
+Pass data to opengl: 521
+grid setup: 856
+calculate velocity: : 731
+update position: 79
+Pass data to opengl: 581
+grid setup: 885
+calculate velocity: : 720
+update position: 79
+Pass data to opengl: 608
+grid setup: 861
+calculate velocity: : 729
+update position: 76
+Pass data to opengl: 558
+grid setup: 940
+calculate velocity: : 725
+update position: 111
+Pass data to opengl: 506
+grid setup: 1269
+calculate velocity: : 740
+update position: 71
+Pass data to opengl: 507
+grid setup: 889
+calculate velocity: : 729
+update position: 72
+Pass data to opengl: 447
+grid setup: 962
+calculate velocity: : 740
+update position: 78
+Pass data to opengl: 408
+grid setup: 862
+calculate velocity: : 717
+update position: 73
+Pass data to opengl: 614
+grid setup: 906
+calculate velocity: : 739
+update position: 73
+Pass data to opengl: 514
+grid setup: 966
+calculate velocity: : 719
+update position: 78
+Pass data to opengl: 449
+grid setup: 906
+calculate velocity: : 747
+update position: 76
+Pass data to opengl: 606
+grid setup: 897
+calculate velocity: : 721
+update position: 75
+Pass data to opengl: 545
+grid setup: 898
+calculate velocity: : 746
+update position: 79
+Pass data to opengl: 591
+grid setup: 1032
+calculate velocity: : 723
+update position: 74
+Pass data to opengl: 489
+grid setup: 909
+calculate velocity: : 749
+update position: 75
+Pass data to opengl: 438
+grid setup: 903
+calculate velocity: : 781
+update position: 101
+Pass data to opengl: 571
+grid setup: 1061
+calculate velocity: : 796
+update position: 75
+Pass data to opengl: 487
+grid setup: 916
+calculate velocity: : 735
+update position: 79
+Pass data to opengl: 450
+grid setup: 963
+calculate velocity: : 740
+update position: 78
+Pass data to opengl: 438
+grid setup: 1532
+calculate velocity: : 1014
+update position: 79
+Pass data to opengl: 505
+grid setup: 970
+calculate velocity: : 819
+update position: 78
+Pass data to opengl: 429
+grid setup: 958
+calculate velocity: : 726
+update position: 79
+Pass data to opengl: 430
+grid setup: 1015
+calculate velocity: : 823
+update position: 79
+Pass data to opengl: 484
+grid setup: 981
+calculate velocity: : 740
+update position: 82
+Pass data to opengl: 446
+grid setup: 973
+calculate velocity: : 826
+update position: 79
+Pass data to opengl: 442
+grid setup: 991
+calculate velocity: : 752
+update position: 72
+Pass data to opengl: 491
+grid setup: 981
+calculate velocity: : 843
+update position: 77
+Pass data to opengl: 443
+grid setup: 878
+calculate velocity: : 826
+update position: 93
+Pass data to opengl: 638
+grid setup: 872
+calculate velocity: : 759
+update position: 77
+Pass data to opengl: 613
+grid setup: 982
+calculate velocity: : 755
+update position: 79
+Pass data to opengl: 436
+grid setup: 963
+calculate velocity: : 765
+update position: 78
+Pass data to opengl: 430
+grid setup: 1007
+calculate velocity: : 748
+update position: 81
+Pass data to opengl: 541
+grid setup: 976
+calculate velocity: : 759
+update position: 80
+Pass data to opengl: 446
+grid setup: 967
+calculate velocity: : 757
+update position: 77
+Pass data to opengl: 471
+grid setup: 1308
+calculate velocity: : 768
+update position: 91
+Pass data to opengl: 594
+grid setup: 1574
+calculate velocity: : 1438
+update position: 81
+Pass data to opengl: 438
+grid setup: 994
+calculate velocity: : 781
+update position: 79
+Pass data to opengl: 423
+grid setup: 948
+calculate velocity: : 755
+update position: 78
+Pass data to opengl: 500
+grid setup: 970
+calculate velocity: : 785
+update position: 78
+Pass data to opengl: 414
+grid setup: 1097
+calculate velocity: : 750
+update position: 96
+Pass data to opengl: 463
+grid setup: 930
+calculate velocity: : 846
+update position: 79
+Pass data to opengl: 493
+grid setup: 968
+calculate velocity: : 761
+update position: 85
+Pass data to opengl: 432
+grid setup: 967
+calculate velocity: : 763
+update position: 78
+Pass data to opengl: 437
+grid setup: 994
+calculate velocity: : 750
+update position: 83
+Pass data to opengl: 502
+grid setup: 967
+calculate velocity: : 771
+update position: 80
+Pass data to opengl: 439
+grid setup: 927
+calculate velocity: : 760
+update position: 78
+Pass data to opengl: 575
+grid setup: 867
+calculate velocity: : 771
+update position: 80
+Pass data to opengl: 538
+grid setup: 1018
+calculate velocity: : 760
+update position: 80
+Pass data to opengl: 474
+grid setup: 987
+calculate velocity: : 770
+update position: 77
+Pass data to opengl: 466
+grid setup: 939
+calculate velocity: : 760
+update position: 478
+Pass data to opengl: 601
+grid setup: 1646
+calculate velocity: : 953
+update position: 78
+Pass data to opengl: 447
+grid setup: 1023
+calculate velocity: : 765
+update position: 83
+Pass data to opengl: 428
+grid setup: 889
+calculate velocity: : 778
+update position: 80
+Pass data to opengl: 455
+grid setup: 993
+calculate velocity: : 763
+update position: 78
+Pass data to opengl: 520
+grid setup: 964
+calculate velocity: : 773
+update position: 75
+Pass data to opengl: 442
+grid setup: 1043
+calculate velocity: : 776
+update position: 94
+Pass data to opengl: 487
+grid setup: 988
+calculate velocity: : 781
+update position: 72
+Pass data to opengl: 527
+grid setup: 1006
+calculate velocity: : 782
+update position: 76
+Pass data to opengl: 467
+grid setup: 1004
+calculate velocity: : 836
+update position: 78
+Pass data to opengl: 582
+grid setup: 987
+calculate velocity: : 781
+update position: 78
+Pass data to opengl: 505
+grid setup: 1001
+calculate velocity: : 838
+update position: 77
+Pass data to opengl: 459
+grid setup: 994
+calculate velocity: : 771
+update position: 73
+Pass data to opengl: 436
+grid setup: 990
+calculate velocity: : 781
+update position: 79
+Pass data to opengl: 514
+grid setup: 915
+calculate velocity: : 787
+update position: 93
+Pass data to opengl: 441
+grid setup: 930
+calculate velocity: : 794
+update position: 78
+Pass data to opengl: 570
+grid setup: 986
+calculate velocity: : 786
+update position: 81
+Pass data to opengl: 530
+grid setup: 1601
+calculate velocity: : 974
+update position: 81
+Pass data to opengl: 484
+grid setup: 1014
+calculate velocity: : 773
+update position: 77
+Pass data to opengl: 441
+grid setup: 993
+calculate velocity: : 790
+update position: 76
+Pass data to opengl: 521
+grid setup: 991
+calculate velocity: : 777
+update position: 78
+Pass data to opengl: 490
+grid setup: 1539
+calculate velocity: : 806
+update position: 84
+Pass data to opengl: 458
+grid setup: 1048
+calculate velocity: : 806
+update position: 86
+Pass data to opengl: 470
+grid setup: 1083
+calculate velocity: : 808
+update position: 91
+Pass data to opengl: 517
+grid setup: 1079
+calculate velocity: : 788
+update position: 90
+Pass data to opengl: 447
+grid setup: 1030
+calculate velocity: : 815
+update position: 109
+Pass data to opengl: 518
+grid setup: 1071
+calculate velocity: : 795
+update position: 88
+Pass data to opengl: 508
+grid setup: 1021
+calculate velocity: : 813
+update position: 93
+Pass data to opengl: 527
+grid setup: 995
+calculate velocity: : 814
+update position: 92
+Pass data to opengl: 518
+grid setup: 1081
+calculate velocity: : 816
+update position: 88
+Pass data to opengl: 517
+grid setup: 1075
+calculate velocity: : 809
+update position: 87
+Pass data to opengl: 473
+grid setup: 1081
+calculate velocity: : 819
+update position: 90
+Pass data to opengl: 474
+grid setup: 1013
+calculate velocity: : 803
+update position: 90
+Pass data to opengl: 574
+grid setup: 1145
+calculate velocity: : 802
+update position: 104
+Pass data to opengl: 472
+grid setup: 1070
+calculate velocity: : 787
+update position: 86
+Pass data to opengl: 449
+grid setup: 1067
+calculate velocity: : 814
+update position: 90
+Pass data to opengl: 503
+grid setup: 983
+calculate velocity: : 815
+update position: 93
+Pass data to opengl: 607
+grid setup: 1096
+calculate velocity: : 818
+update position: 86
+Pass data to opengl: 473
+grid setup: 1079
+calculate velocity: : 809
+update position: 90
+Pass data to opengl: 557
+grid setup: 1138
+calculate velocity: : 820
+update position: 88
+Pass data to opengl: 459
+grid setup: 1054
+calculate velocity: : 804
+update position: 85
+Pass data to opengl: 562
+grid setup: 947
+calculate velocity: : 812
+update position: 92
+Pass data to opengl: 566
+grid setup: 1062
+calculate velocity: : 804
+update position: 90
+Pass data to opengl: 602
+grid setup: 992
+calculate velocity: : 819
+update position: 93
+Pass data to opengl: 513
+grid setup: 1066
+calculate velocity: : 809
+update position: 110
+Pass data to opengl: 556
+grid setup: 949
+calculate velocity: : 821
+update position: 93
+Pass data to opengl: 538
+grid setup: 1063
+calculate velocity: : 803
+update position: 92
+Pass data to opengl: 615
+grid setup: 1550
+calculate velocity: : 1007
+update position: 90
+Pass data to opengl: 536
+grid setup: 1741
+calculate velocity: : 1014
+update position: 89
+Pass data to opengl: 473
+grid setup: 1049
+calculate velocity: : 811
+update position: 92
+Pass data to opengl: 469
+grid setup: 1018
+calculate velocity: : 813
+update position: 94
+Pass data to opengl: 565
+grid setup: 1083
+calculate velocity: : 840
+update position: 83
+Pass data to opengl: 471
+grid setup: 1085
+calculate velocity: : 821
+update position: 105
+Pass data to opengl: 474
+grid setup: 1034
+calculate velocity: : 826
+update position: 91
+Pass data to opengl: 561
+grid setup: 1077
+calculate velocity: : 831
+update position: 92
+Pass data to opengl: 475
+grid setup: 1062
+calculate velocity: : 838
+update position: 95
+Pass data to opengl: 529
+grid setup: 988
+calculate velocity: : 819
+update position: 87
+Pass data to opengl: 661
+grid setup: 1167
+calculate velocity: : 839
+update position: 91
+Pass data to opengl: 952
+grid setup: 1089
+calculate velocity: : 832
+update position: 92
+Pass data to opengl: 481
+grid setup: 1073
+calculate velocity: : 844
+update position: 90
+Pass data to opengl: 479
+grid setup: 1097
+calculate velocity: : 836
+update position: 89
+Pass data to opengl: 509
+grid setup: 1012
+calculate velocity: : 838
+update position: 90
+Pass data to opengl: 599
+grid setup: 1048
+calculate velocity: : 1491
+update position: 91
+Pass data to opengl: 607
+grid setup: 1033
+calculate velocity: : 845
+update position: 93
+Pass data to opengl: 522
+grid setup: 1094
+calculate velocity: : 830
+update position: 88
+Pass data to opengl: 456
+grid setup: 1084
+calculate velocity: : 828
+update position: 92
+Pass data to opengl: 436
+grid setup: 1068
+calculate velocity: : 819
+update position: 87
+Pass data to opengl: 489
+grid setup: 1127
+calculate velocity: : 846
+update position: 105
+Pass data to opengl: 488
+grid setup: 954
+calculate velocity: : 836
+update position: 90
+Pass data to opengl: 453
+grid setup: 1062
+calculate velocity: : 855
+update position: 91
+Pass data to opengl: 526
+grid setup: 1063
+calculate velocity: : 829
+update position: 83
+Pass data to opengl: 596
+grid setup: 1002
+calculate velocity: : 846
+update position: 85
+Pass data to opengl: 685
+grid setup: 991
+calculate velocity: : 841
+update position: 84
+Pass data to opengl: 699
+grid setup: 999
+calculate velocity: : 837
+update position: 83
+Pass data to opengl: 586
+grid setup: 1067
+calculate velocity: : 850
+update position: 88
+Pass data to opengl: 489
+grid setup: 997
+calculate velocity: : 889
+update position: 84
+Pass data to opengl: 650
+grid setup: 999
+calculate velocity: : 830
+update position: 86
+Pass data to opengl: 585
+grid setup: 932
+calculate velocity: : 843
+update position: 89
+Pass data to opengl: 568
+grid setup: 1704
+calculate velocity: : 1041
+update position: 85
+Pass data to opengl: 533
+grid setup: 1091
+calculate velocity: : 839
+update position: 86
+Pass data to opengl: 459
+grid setup: 1089
+calculate velocity: : 833
+update position: 89
+Pass data to opengl: 484
+grid setup: 1006
+calculate velocity: : 856
+update position: 89
+Pass data to opengl: 637
+grid setup: 929
+calculate velocity: : 859
+update position: 86
+Pass data to opengl: 484
+grid setup: 1086
+calculate velocity: : 867
+update position: 83
+Pass data to opengl: 602
+grid setup: 1031
+calculate velocity: : 853
+update position: 88
+Pass data to opengl: 594
+grid setup: 959
+calculate velocity: : 921
+update position: 84
+Pass data to opengl: 578
+grid setup: 1004
+calculate velocity: : 837
+update position: 88
+Pass data to opengl: 618
+grid setup: 960
+calculate velocity: : 865
+update position: 83
+Pass data to opengl: 539
+grid setup: 1037
+calculate velocity: : 842
+update position: 91
+Pass data to opengl: 527
+grid setup: 1157
+calculate velocity: : 872
+update position: 87
+Pass data to opengl: 505
+grid setup: 1051
+calculate velocity: : 851
+update position: 82
+Pass data to opengl: 608
+grid setup: 1105
+calculate velocity: : 864
+update position: 85
+Pass data to opengl: 468
+grid setup: 1007
+calculate velocity: : 853
+update position: 91
+Pass data to opengl: 504
+grid setup: 1070
+calculate velocity: : 851
+update position: 82
+Pass data to opengl: 500
+grid setup: 1121
+calculate velocity: : 847
+update position: 95
+Pass data to opengl: 609
+grid setup: 1084
+calculate velocity: : 860
+update position: 86
+Pass data to opengl: 560
+grid setup: 1038
+calculate velocity: : 871
+update position: 87
+Pass data to opengl: 480
+grid setup: 972
+calculate velocity: : 879
+update position: 82
+Pass data to opengl: 492
+grid setup: 1017
+calculate velocity: : 864
+update position: 92
+Pass data to opengl: 507
+grid setup: 971
+calculate velocity: : 867
+update position: 90
+Pass data to opengl: 591
+grid setup: 999
+calculate velocity: : 863
+update position: 83
+Pass data to opengl: 514
+grid setup: 911
+calculate velocity: : 874
+update position: 84
+Pass data to opengl: 651
+grid setup: 962
+calculate velocity: : 852
+update position: 83
+Pass data to opengl: 642
+grid setup: 1057
+calculate velocity: : 872
+update position: 83
+Pass data to opengl: 487
+grid setup: 1069
+calculate velocity: : 858
+update position: 91
+Pass data to opengl: 495
+grid setup: 1229
+calculate velocity: : 852
+update position: 83
+Pass data to opengl: 486
+grid setup: 1111
+calculate velocity: : 873
+update position: 82
+Pass data to opengl: 438
+grid setup: 1070
+calculate velocity: : 876
+update position: 90
+Pass data to opengl: 446
+grid setup: 1147
+calculate velocity: : 892
+update position: 109
+Pass data to opengl: 707
+grid setup: 1112
+calculate velocity: : 866
+update position: 89
+Pass data to opengl: 441
+grid setup: 1122
+calculate velocity: : 853
+update position: 89
+Pass data to opengl: 467
+grid setup: 1122
+calculate velocity: : 884
+update position: 85
+Pass data to opengl: 490
+grid setup: 1155
+calculate velocity: : 870
+update position: 85
+Pass data to opengl: 441
+grid setup: 1110
+calculate velocity: : 873
+update position: 89
+Pass data to opengl: 443
+grid setup: 1072
+calculate velocity: : 875
+update position: 91
+Pass data to opengl: 481
+grid setup: 1271
+calculate velocity: : 890
+update position: 109
+Pass data to opengl: 490
+grid setup: 1177
+calculate velocity: : 855
+update position: 90
+Pass data to opengl: 439
+grid setup: 1120
+calculate velocity: : 877
+update position: 90
+Pass data to opengl: 483
+grid setup: 1267
+calculate velocity: : 898
+update position: 129
+Pass data to opengl: 495
+grid setup: 1225
+calculate velocity: : 885
+update position: 84
+Pass data to opengl: 446
+grid setup: 1205
+calculate velocity: : 867
+update position: 92
+Pass data to opengl: 483
+grid setup: 1225
+calculate velocity: : 869
+update position: 88
+Pass data to opengl: 445
+grid setup: 1134
+calculate velocity: : 878
+update position: 87
+Pass data to opengl: 437
+grid setup: 1129
+calculate velocity: : 875
+update position: 86
+Pass data to opengl: 490
+grid setup: 1114
+calculate velocity: : 864
+update position: 92
+Pass data to opengl: 448
+grid setup: 1122
+calculate velocity: : 887
+update position: 93
+Pass data to opengl: 441
+grid setup: 1069
+calculate velocity: : 896
+update position: 93
+Pass data to opengl: 519
+grid setup: 1260
+calculate velocity: : 908
+update position: 94
+Pass data to opengl: 470
+grid setup: 1264
+calculate velocity: : 923
+update position: 111
+Pass data to opengl: 452
+grid setup: 1217
+calculate velocity: : 896
+update position: 82
+Pass data to opengl: 515
+grid setup: 1096
+calculate velocity: : 879
+update position: 82
+Pass data to opengl: 454
+grid setup: 1230
+calculate velocity: : 942
+update position: 130
+Pass data to opengl: 483
+grid setup: 1222
+calculate velocity: : 903
+update position: 142
+Pass data to opengl: 544
+grid setup: 1131
+calculate velocity: : 886
+update position: 83
+Pass data to opengl: 575
+grid setup: 1141
+calculate velocity: : 878
+update position: 85
+Pass data to opengl: 445
+grid setup: 1124
+calculate velocity: : 900
+update position: 87
+Pass data to opengl: 440
+grid setup: 1147
+calculate velocity: : 893
+update position: 85
+Pass data to opengl: 497
+grid setup: 1206
+calculate velocity: : 904
+update position: 90
+Pass data to opengl: 439
+grid setup: 1270
+calculate velocity: : 925
+update position: 123
+Pass data to opengl: 440
+grid setup: 1042
+calculate velocity: : 897
+update position: 86
+Pass data to opengl: 510
+grid setup: 1123
+calculate velocity: : 871
+update position: 85
+Pass data to opengl: 533
+grid setup: 1181
+calculate velocity: : 899
+update position: 83
+Pass data to opengl: 441
+grid setup: 1173
+calculate velocity: : 936
+update position: 140
+Pass data to opengl: 492
+grid setup: 897
+calculate velocity: : 905
+update position: 87
+Pass data to opengl: 532
+grid setup: 1137
+calculate velocity: : 896
+update position: 83
+Pass data to opengl: 445
+grid setup: 1136
+calculate velocity: : 905
+update position: 85
+Pass data to opengl: 442
+grid setup: 1094
+calculate velocity: : 887
+update position: 82
+Pass data to opengl: 500
+grid setup: 1137
+calculate velocity: : 918
+update position: 89
+Pass data to opengl: 440
+grid setup: 1147
+calculate velocity: : 904
+update position: 84
+Pass data to opengl: 442
+grid setup: 1150
+calculate velocity: : 905
+update position: 86
+Pass data to opengl: 484
+grid setup: 1256
+calculate velocity: : 930
+update position: 140
+Pass data to opengl: 492
+grid setup: 1260
+calculate velocity: : 947
+update position: 142
+Pass data to opengl: 488
+grid setup: 1279
+calculate velocity: : 934
+update position: 130
+Pass data to opengl: 538
+grid setup: 1220
+calculate velocity: : 922
+update position: 90
+Pass data to opengl: 443
+grid setup: 1116
+calculate velocity: : 905
+update position: 86
+Pass data to opengl: 492
+grid setup: 1182
+calculate velocity: : 916
+update position: 747
+Pass data to opengl: 714
+grid setup: 1136
+calculate velocity: : 915
+update position: 86
+Pass data to opengl: 442
+grid setup: 1128
+calculate velocity: : 961
+update position: 92
+Pass data to opengl: 487
+grid setup: 1093
+calculate velocity: : 921
+update position: 121
+Pass data to opengl: 1824
+grid setup: 1265
+calculate velocity: : 924
+update position: 95
+Pass data to opengl: 447
+grid setup: 1144
+calculate velocity: : 931
+update position: 88
+Pass data to opengl: 443
+grid setup: 1201
+calculate velocity: : 935
+update position: 90
+Pass data to opengl: 499
+grid setup: 1196
+calculate velocity: : 952
+update position: 93
+Pass data to opengl: 450
+grid setup: 1142
+calculate velocity: : 940
+update position: 84
+Pass data to opengl: 446
+grid setup: 1148
+calculate velocity: : 917
+update position: 83
+Pass data to opengl: 487
+grid setup: 1147
+calculate velocity: : 933
+update position: 86
+Pass data to opengl: 456
+grid setup: 1151
+calculate velocity: : 913
+update position: 86
+Pass data to opengl: 453
+grid setup: 1172
+calculate velocity: : 921
+update position: 92
+Pass data to opengl: 492
+grid setup: 1152
+calculate velocity: : 924
+update position: 86
+Pass data to opengl: 459
+grid setup: 1175
+calculate velocity: : 942
+update position: 86
+Pass data to opengl: 470
+grid setup: 1113
+calculate velocity: : 933
+update position: 99
+Pass data to opengl: 519
+grid setup: 1144
+calculate velocity: : 921
+update position: 89
+Pass data to opengl: 571
+grid setup: 1236
+calculate velocity: : 929
+update position: 85
+Pass data to opengl: 446
+grid setup: 1190
+calculate velocity: : 916
+update position: 89
+Pass data to opengl: 470
+grid setup: 1156
+calculate velocity: : 903
+update position: 86
+Pass data to opengl: 483
+grid setup: 1143
+calculate velocity: : 926
+update position: 86
+Pass data to opengl: 444
+grid setup: 1171
+calculate velocity: : 929
+update position: 92
+Pass data to opengl: 447
+grid setup: 1151
+calculate velocity: : 930
+update position: 86
+Pass data to opengl: 490
+grid setup: 1152
+calculate velocity: : 926
+update position: 90
+Pass data to opengl: 443
+grid setup: 1152
+calculate velocity: : 927
+update position: 85
+Pass data to opengl: 457
+grid setup: 1144
+calculate velocity: : 909
+update position: 86
+Pass data to opengl: 492
+grid setup: 1097
+calculate velocity: : 924
+update position: 85
+Pass data to opengl: 447
+grid setup: 1101
+calculate velocity: : 926
+update position: 91
+Pass data to opengl: 472
+grid setup: 1286
+calculate velocity: : 947
+update position: 139
+Pass data to opengl: 530
+grid setup: 1151
+calculate velocity: : 916
+update position: 87
+Pass data to opengl: 442
+grid setup: 1132
+calculate velocity: : 916
+update position: 92
+Pass data to opengl: 530
+grid setup: 1142
+calculate velocity: : 914
+update position: 87
+Pass data to opengl: 515
+grid setup: 1144
+calculate velocity: : 937
+update position: 86
+Pass data to opengl: 465
+grid setup: 1173
+calculate velocity: : 917
+update position: 135
+Pass data to opengl: 503
+grid setup: 1158
+calculate velocity: : 912
+update position: 84
+Pass data to opengl: 490
+grid setup: 1110
+calculate velocity: : 927
+update position: 88
+Pass data to opengl: 439
+grid setup: 1155
+calculate velocity: : 932
+update position: 91
+Pass data to opengl: 447
+grid setup: 1116
+calculate velocity: : 916
+update position: 85
+Pass data to opengl: 497
+grid setup: 1074
+calculate velocity: : 953
+update position: 89
+Pass data to opengl: 446
+grid setup: 1174
+calculate velocity: : 913
+update position: 91
+Pass data to opengl: 441
+grid setup: 1219
+calculate velocity: : 913
+update position: 85
+Pass data to opengl: 502
+grid setup: 1227
+calculate velocity: : 910
+update position: 85
+Pass data to opengl: 443
+grid setup: 1216
+calculate velocity: : 905
+update position: 89
+Pass data to opengl: 448
+grid setup: 1126
+calculate velocity: : 924
+update position: 86
+Pass data to opengl: 494
+grid setup: 1151
+calculate velocity: : 924
+update position: 83
+Pass data to opengl: 446
+grid setup: 1165
+calculate velocity: : 925
+update position: 87
+Pass data to opengl: 458
+grid setup: 1364
+calculate velocity: : 941
+update position: 88
+Pass data to opengl: 672
+grid setup: 1119
+calculate velocity: : 930
+update position: 87
+Pass data to opengl: 561
+grid setup: 1162
+calculate velocity: : 934
+update position: 85
+Pass data to opengl: 455
+grid setup: 1125
+calculate velocity: : 927
+update position: 85
+Pass data to opengl: 429
+grid setup: 1181
+calculate velocity: : 939
+update position: 84
+Pass data to opengl: 487
+grid setup: 1159
+calculate velocity: : 935
+update position: 91
+Pass data to opengl: 461
+grid setup: 1171
+calculate velocity: : 1581
+update position: 88
+Pass data to opengl: 822
+grid setup: 1279
+calculate velocity: : 940
+update position: 84
+Pass data to opengl: 507
+grid setup: 1123
+calculate velocity: : 915
+update position: 83
+Pass data to opengl: 451
+grid setup: 1120
+calculate velocity: : 934
+update position: 85
+Pass data to opengl: 447
+grid setup: 1158
+calculate velocity: : 933
+update position: 88
+Pass data to opengl: 490
+grid setup: 1178
+calculate velocity: : 934
+update position: 91
+Pass data to opengl: 446
+grid setup: 1175
+calculate velocity: : 929
+update position: 84
+Pass data to opengl: 448
+grid setup: 1172
+calculate velocity: : 921
+update position: 86
+Pass data to opengl: 490
+grid setup: 1170
+calculate velocity: : 947
+update position: 87
+Pass data to opengl: 444
+grid setup: 1139
+calculate velocity: : 952
+update position: 84
+Pass data to opengl: 481
+grid setup: 1181
+calculate velocity: : 959
+update position: 88
+Pass data to opengl: 517
+grid setup: 1196
+calculate velocity: : 951
+update position: 86
+Pass data to opengl: 453
+grid setup: 1190
+calculate velocity: : 959
+update position: 91
+Pass data to opengl: 458
+grid setup: 1188
+calculate velocity: : 961
+update position: 89
+Pass data to opengl: 497
+grid setup: 1181
+calculate velocity: : 966
+update position: 87
+Pass data to opengl: 448
+grid setup: 1134
+calculate velocity: : 965
+update position: 83
+Pass data to opengl: 449
+grid setup: 1185
+calculate velocity: : 949
+update position: 85
+Pass data to opengl: 489
+grid setup: 1103
+calculate velocity: : 960
+update position: 86
+Pass data to opengl: 448
+grid setup: 1178
+calculate velocity: : 961
+update position: 87
+Pass data to opengl: 448
+grid setup: 1170
+calculate velocity: : 959
+update position: 93
+Pass data to opengl: 509
+grid setup: 1182
+calculate velocity: : 949
+update position: 85
+Pass data to opengl: 455
+grid setup: 1319
+calculate velocity: : 975
+update position: 132
+Pass data to opengl: 492
+grid setup: 1322
+calculate velocity: : 985
+update position: 115
+Pass data to opengl: 514
+grid setup: 1180
+calculate velocity: : 949
+update position: 85
+Pass data to opengl: 449
+grid setup: 1167
+calculate velocity: : 975
+update position: 89
+Pass data to opengl: 443
+grid setup: 1580
+calculate velocity: : 1406
+update position: 93
+Pass data to opengl: 605
+grid setup: 1271
+calculate velocity: : 983
+update position: 85
+Pass data to opengl: 481
+grid setup: 1245
+calculate velocity: : 960
+update position: 83
+Pass data to opengl: 461
+grid setup: 1284
+calculate velocity: : 953
+update position: 86
+Pass data to opengl: 508
+grid setup: 1233
+calculate velocity: : 952
+update position: 114
+Pass data to opengl: 493
+grid setup: 1195
+calculate velocity: : 982
+update position: 86
+Pass data to opengl: 462
+grid setup: 1144
+calculate velocity: : 968
+update position: 88
+Pass data to opengl: 505
+grid setup: 1195
+calculate velocity: : 968
+update position: 88
+Pass data to opengl: 474
+grid setup: 1177
+calculate velocity: : 969
+update position: 86
+Pass data to opengl: 463
+grid setup: 1182
+calculate velocity: : 978
+update position: 87
+Pass data to opengl: 504
+grid setup: 1203
+calculate velocity: : 974
+update position: 86
+Pass data to opengl: 456
+grid setup: 1186
+calculate velocity: : 948
+update position: 84
+Pass data to opengl: 451
+grid setup: 1213
+calculate velocity: : 963
+update position: 89
+Pass data to opengl: 525
+grid setup: 1224
+calculate velocity: : 973
+update position: 83
+Pass data to opengl: 470
+grid setup: 1157
+calculate velocity: : 972
+update position: 84
+Pass data to opengl: 462
+grid setup: 1886
+calculate velocity: : 969
+update position: 113
+Pass data to opengl: 540
+grid setup: 1311
+calculate velocity: : 951
+update position: 88
+Pass data to opengl: 528
+grid setup: 1066
+calculate velocity: : 957
+update position: 84
+Pass data to opengl: 457
+grid setup: 1210
+calculate velocity: : 959
+update position: 89
+Pass data to opengl: 464
+grid setup: 1200
+calculate velocity: : 979
+update position: 89
+Pass data to opengl: 511
+grid setup: 1187
+calculate velocity: : 967
+update position: 86
+Pass data to opengl: 447
+grid setup: 1183
+calculate velocity: : 982
+update position: 88
+Pass data to opengl: 470
+grid setup: 1206
+calculate velocity: : 944
+update position: 84
+Pass data to opengl: 503
+grid setup: 1182
+calculate velocity: : 977
+update position: 86
+Pass data to opengl: 461
+grid setup: 1183
+calculate velocity: : 967
+update position: 86
+Pass data to opengl: 503
+grid setup: 1187
+calculate velocity: : 978
+update position: 85
+Pass data to opengl: 514
+grid setup: 1180
+calculate velocity: : 973
+update position: 85
+Pass data to opengl: 468
+grid setup: 1183
+calculate velocity: : 990
+update position: 91
+Pass data to opengl: 470
+grid setup: 1188
+calculate velocity: : 972
+update position: 90
+Pass data to opengl: 522
+grid setup: 1259
+calculate velocity: : 995
+update position: 87
+Pass data to opengl: 450
+grid setup: 1161
+calculate velocity: : 976
+update position: 84
+Pass data to opengl: 463
+grid setup: 1175
+calculate velocity: : 993
+update position: 91
+Pass data to opengl: 485
+grid setup: 1193
+calculate velocity: : 986
+update position: 84
+Pass data to opengl: 464
+grid setup: 1151
+calculate velocity: : 987
+update position: 86
+Pass data to opengl: 465
+grid setup: 1211
+calculate velocity: : 996
+update position: 86
+Pass data to opengl: 507
+grid setup: 1204
+calculate velocity: : 987
+update position: 85
+Pass data to opengl: 465
+grid setup: 1136
+calculate velocity: : 995
+update position: 87
+Pass data to opengl: 487
+grid setup: 1202
+calculate velocity: : 984
+update position: 90
+Pass data to opengl: 470
+grid setup: 1319
+calculate velocity: : 1015
+update position: 127
+Pass data to opengl: 568
+grid setup: 1346
+calculate velocity: : 1023
+update position: 127
+Pass data to opengl: 483
+grid setup: 1152
+calculate velocity: : 980
+update position: 94
+Pass data to opengl: 472
+grid setup: 1354
+calculate velocity: : 981
+update position: 105
+Pass data to opengl: 545
+grid setup: 1265
+calculate velocity: : 990
+update position: 91
+Pass data to opengl: 475
+grid setup: 1197
+calculate velocity: : 976
+update position: 86
+Pass data to opengl: 468
+grid setup: 1235
+calculate velocity: : 1000
+update position: 88
+Pass data to opengl: 524
+grid setup: 1233
+calculate velocity: : 1005
+update position: 85
+Pass data to opengl: 457
+grid setup: 1838
+calculate velocity: : 991
+update position: 102
+Pass data to opengl: 504
+grid setup: 1157
+calculate velocity: : 986
+update position: 84
+Pass data to opengl: 531
+grid setup: 1288
+calculate velocity: : 984
+update position: 104
+Pass data to opengl: 494
+grid setup: 1253
+calculate velocity: : 1012
+update position: 84
+Pass data to opengl: 464
+grid setup: 1731
+calculate velocity: : 2378
+update position: 271
+Pass data to opengl: 612
+grid setup: 1218
+calculate velocity: : 1002
+update position: 88
+Pass data to opengl: 464
+grid setup: 1181
+calculate velocity: : 1006
+update position: 86
+Pass data to opengl: 465
+grid setup: 1182
+calculate velocity: : 997
+update position: 87
+Pass data to opengl: 504
+grid setup: 1225
+calculate velocity: : 995
+update position: 88
+Pass data to opengl: 481
+grid setup: 1177
+calculate velocity: : 998
+update position: 89
+Pass data to opengl: 466
+grid setup: 1229
+calculate velocity: : 996
+update position: 85
+Pass data to opengl: 505
+grid setup: 1216
+calculate velocity: : 997
+update position: 87
+Pass data to opengl: 488
+grid setup: 1221
+calculate velocity: : 1006
+update position: 85
+Pass data to opengl: 466
+grid setup: 1209
+calculate velocity: : 987
+update position: 93
+Pass data to opengl: 534
+grid setup: 1203
+calculate velocity: : 1018
+update position: 87
+Pass data to opengl: 468
+grid setup: 1255
+calculate velocity: : 988
+update position: 421
+Pass data to opengl: 684
+grid setup: 1113
+calculate velocity: : 1005
+update position: 87
+Pass data to opengl: 463
+grid setup: 1231
+calculate velocity: : 1004
+update position: 88
+Pass data to opengl: 463
+grid setup: 1273
+calculate velocity: : 1006
+update position: 102
+Pass data to opengl: 507
+grid setup: 1337
+calculate velocity: : 1004
+update position: 85
+Pass data to opengl: 516
+grid setup: 1213
+calculate velocity: : 996
+update position: 90
+Pass data to opengl: 487
+grid setup: 1230
+calculate velocity: : 996
+update position: 92
+Pass data to opengl: 463
+grid setup: 1253
+calculate velocity: : 1006
+update position: 84
+Pass data to opengl: 510
+grid setup: 1234
+calculate velocity: : 999
+update position: 86
+Pass data to opengl: 520
+grid setup: 1221
+calculate velocity: : 1006
+update position: 89
+Pass data to opengl: 477
+grid setup: 1341
+calculate velocity: : 1028
+update position: 129
+Pass data to opengl: 544
+grid setup: 1279
+calculate velocity: : 1013
+update position: 87
+Pass data to opengl: 463
+grid setup: 1229
+calculate velocity: : 1003
+update position: 87
+Pass data to opengl: 467
+grid setup: 1357
+calculate velocity: : 1000
+update position: 88
+Pass data to opengl: 526
+grid setup: 1172
+calculate velocity: : 1025
+update position: 95
+Pass data to opengl: 485
+grid setup: 1224
+calculate velocity: : 1004
+update position: 1211
+Pass data to opengl: 568
+grid setup: 1211
+calculate velocity: : 1005
+update position: 82
+Pass data to opengl: 433
+grid setup: 1234
+calculate velocity: : 1013
+update position: 86
+Pass data to opengl: 468
+grid setup: 1230
+calculate velocity: : 996
+update position: 88
+Pass data to opengl: 463
+grid setup: 1229
+calculate velocity: : 1007
+update position: 84
+Pass data to opengl: 506
+grid setup: 1233
+calculate velocity: : 994
+update position: 85
+Pass data to opengl: 471
+grid setup: 1181
+calculate velocity: : 1021
+update position: 91
+Pass data to opengl: 470
+grid setup: 1230
+calculate velocity: : 1008
+update position: 90
+Pass data to opengl: 515
+grid setup: 1174
+calculate velocity: : 1011
+update position: 86
+Pass data to opengl: 488
+grid setup: 1248
+calculate velocity: : 1016
+update position: 85
+Pass data to opengl: 465
+grid setup: 1231
+calculate velocity: : 991
+update position: 86
+Pass data to opengl: 518
+grid setup: 1235
+calculate velocity: : 1001
+update position: 96
+Pass data to opengl: 482
+grid setup: 1241
+calculate velocity: : 1012
+update position: 87
+Pass data to opengl: 469
+grid setup: 1234
+calculate velocity: : 1022
+update position: 85
+Pass data to opengl: 505
+grid setup: 1209
+calculate velocity: : 1011
+update position: 91
+Pass data to opengl: 466
+grid setup: 1199
+calculate velocity: : 1004
+update position: 86
+Pass data to opengl: 471
+grid setup: 1255
+calculate velocity: : 993
+update position: 105
+Pass data to opengl: 570
+grid setup: 1238
+calculate velocity: : 1007
+update position: 86
+Pass data to opengl: 466
+grid setup: 1197
+calculate velocity: : 1006
+update position: 84
+Pass data to opengl: 451
+grid setup: 1215
+calculate velocity: : 1014
+update position: 99
+Pass data to opengl: 529
+grid setup: 1186
+calculate velocity: : 1010
+update position: 87
+Pass data to opengl: 469
+grid setup: 1274
+calculate velocity: : 1017
+update position: 82
+Pass data to opengl: 466
+grid setup: 1228
+calculate velocity: : 1009
+update position: 86
+Pass data to opengl: 504
+grid setup: 1167
+calculate velocity: : 1022
+update position: 91
+Pass data to opengl: 468
+grid setup: 1238
+calculate velocity: : 1013
+update position: 86
+Pass data to opengl: 466
+grid setup: 1161
+calculate velocity: : 1018
+update position: 88
+Pass data to opengl: 507
+grid setup: 1231
+calculate velocity: : 1006
+update position: 91
+Pass data to opengl: 512
+grid setup: 1185
+calculate velocity: : 1017
+update position: 88
+Pass data to opengl: 473
+grid setup: 1240
+calculate velocity: : 1004
+update position: 86
+Pass data to opengl: 524
+grid setup: 1158
+calculate velocity: : 1011
+update position: 87
+Pass data to opengl: 471
+grid setup: 1234
+calculate velocity: : 1024
+update position: 86
+Pass data to opengl: 466
+grid setup: 1674
+calculate velocity: : 1020
+update position: 104
+Pass data to opengl: 571
+grid setup: 1247
+calculate velocity: : 1041
+update position: 371
+Pass data to opengl: 846
+grid setup: 1221
+calculate velocity: : 1002
+update position: 86
+Pass data to opengl: 465
+grid setup: 1350
+calculate velocity: : 1047
+update position: 121
+Pass data to opengl: 467
+grid setup: 1194
+calculate velocity: : 1039
+update position: 86
+Pass data to opengl: 508
+grid setup: 1227
+calculate velocity: : 1015
+update position: 82
+Pass data to opengl: 462
+grid setup: 1200
+calculate velocity: : 1030
+update position: 87
+Pass data to opengl: 472
+grid setup: 1268
+calculate velocity: : 1009
+update position: 91
+Pass data to opengl: 522
+grid setup: 1373
+calculate velocity: : 1038
+update position: 149
+Pass data to opengl: 523
+grid setup: 1334
+calculate velocity: : 1025
+update position: 85
+Pass data to opengl: 465
+grid setup: 1300
+calculate velocity: : 1016
+update position: 94
+Pass data to opengl: 504
+grid setup: 1179
+calculate velocity: : 1000
+update position: 83
+Pass data to opengl: 468
+grid setup: 1244
+calculate velocity: : 1036
+update position: 86
+Pass data to opengl: 464
+grid setup: 1229
+calculate velocity: : 1032
+update position: 89
+Pass data to opengl: 510
+grid setup: 1192
+calculate velocity: : 1039
+update position: 83
+Pass data to opengl: 468
+grid setup: 1202
+calculate velocity: : 1024
+update position: 86
+Pass data to opengl: 481
+grid setup: 1210
+calculate velocity: : 1028
+update position: 117
+Pass data to opengl: 494
+grid setup: 1244
+calculate velocity: : 1024
+update position: 84
+Pass data to opengl: 515
+grid setup: 1828
+calculate velocity: : 2761
+update position: 89
+Pass data to opengl: 530
+grid setup: 1247
+calculate velocity: : 1028
+update position: 87
+Pass data to opengl: 486
+grid setup: 1222
+calculate velocity: : 1049
+update position: 87
+Pass data to opengl: 463
+grid setup: 1209
+calculate velocity: : 1008
+update position: 91
+Pass data to opengl: 524
+grid setup: 1173
+calculate velocity: : 1038
+update position: 90
+Pass data to opengl: 469
+grid setup: 1249
+calculate velocity: : 1024
+update position: 117
+Pass data to opengl: 470
+grid setup: 1231
+calculate velocity: : 1049
+update position: 87
+Pass data to opengl: 479
+grid setup: 1252
+calculate velocity: : 1019
+update position: 89
+Pass data to opengl: 506
+grid setup: 1395
+calculate velocity: : 1082
+update position: 183
+Pass data to opengl: 533
+grid setup: 1403
+calculate velocity: : 1052
+update position: 128
+Pass data to opengl: 491
+grid setup: 1194
+calculate velocity: : 1053
+update position: 88
+Pass data to opengl: 522
+grid setup: 1244
+calculate velocity: : 1027
+update position: 85
+Pass data to opengl: 463
+grid setup: 1189
+calculate velocity: : 1050
+update position: 89
+Pass data to opengl: 464
+grid setup: 1303
+calculate velocity: : 1053
+update position: 90
+Pass data to opengl: 539
+grid setup: 1238
+calculate velocity: : 1044
+update position: 86
+Pass data to opengl: 568
+grid setup: 1234
+calculate velocity: : 1031
+update position: 87
+Pass data to opengl: 467
+grid setup: 1278
+calculate velocity: : 1037
+update position: 108
+Pass data to opengl: 518
+grid setup: 1283
+calculate velocity: : 1028
+update position: 101
+Pass data to opengl: 552
+grid setup: 1331
+calculate velocity: : 1044
+update position: 85
+Pass data to opengl: 467
+grid setup: 1247
+calculate velocity: : 1036
+update position: 91
+Pass data to opengl: 471
+grid setup: 1169
+calculate velocity: : 1035
+update position: 85
+Pass data to opengl: 520
+grid setup: 1244
+calculate velocity: : 1023
+update position: 83
+Pass data to opengl: 478
+grid setup: 1234
+calculate velocity: : 1019
+update position: 91
+Pass data to opengl: 468
+grid setup: 1239
+calculate velocity: : 1046
+update position: 87
+Pass data to opengl: 509
+grid setup: 1238
+calculate velocity: : 1059
+update position: 88
+Pass data to opengl: 475
+grid setup: 1189
+calculate velocity: : 1072
+update position: 89
+Pass data to opengl: 524
+grid setup: 1243
+calculate velocity: : 1055
+update position: 87
+Pass data to opengl: 474
+grid setup: 1247
+calculate velocity: : 1051
+update position: 86
+Pass data to opengl: 467
+grid setup: 1266
+calculate velocity: : 1902
+update position: 106
+Pass data to opengl: 548
+grid setup: 1244
+calculate velocity: : 1038
+update position: 89
+Pass data to opengl: 511
+grid setup: 1212
+calculate velocity: : 1063
+update position: 87
+Pass data to opengl: 467
+grid setup: 1191
+calculate velocity: : 1038
+update position: 87
+Pass data to opengl: 467
+grid setup: 1276
+calculate velocity: : 1034
+update position: 83
+Pass data to opengl: 479
+grid setup: 1235
+calculate velocity: : 1029
+update position: 84
+Pass data to opengl: 468
+grid setup: 1306
+calculate velocity: : 1061
+update position: 84
+Pass data to opengl: 480
+grid setup: 1248
+calculate velocity: : 1034
+update position: 85
+Pass data to opengl: 480
+grid setup: 1244
+calculate velocity: : 1044
+update position: 86
+Pass data to opengl: 468
+grid setup: 1229
+calculate velocity: : 1048
+update position: 93
+Pass data to opengl: 498
+grid setup: 1246
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 480
+grid setup: 1195
+calculate velocity: : 1042
+update position: 86
+Pass data to opengl: 492
+grid setup: 1193
+calculate velocity: : 1087
+update position: 82
+Pass data to opengl: 476
+grid setup: 1259
+calculate velocity: : 1060
+update position: 82
+Pass data to opengl: 470
+grid setup: 1246
+calculate velocity: : 1041
+update position: 87
+Pass data to opengl: 470
+grid setup: 1330
+calculate velocity: : 1030
+update position: 83
+Pass data to opengl: 472
+grid setup: 1290
+calculate velocity: : 1058
+update position: 88
+Pass data to opengl: 473
+grid setup: 1184
+calculate velocity: : 1042
+update position: 87
+Pass data to opengl: 471
+grid setup: 1183
+calculate velocity: : 1051
+update position: 86
+Pass data to opengl: 465
+grid setup: 1196
+calculate velocity: : 1025
+update position: 82
+Pass data to opengl: 469
+grid setup: 1189
+calculate velocity: : 1059
+update position: 83
+Pass data to opengl: 467
+grid setup: 1258
+calculate velocity: : 1051
+update position: 85
+Pass data to opengl: 478
+grid setup: 1245
+calculate velocity: : 1066
+update position: 85
+Pass data to opengl: 467
+grid setup: 1250
+calculate velocity: : 1055
+update position: 86
+Pass data to opengl: 468
+grid setup: 1236
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 469
+grid setup: 1248
+calculate velocity: : 1027
+update position: 85
+Pass data to opengl: 477
+grid setup: 1194
+calculate velocity: : 1071
+update position: 85
+Pass data to opengl: 478
+grid setup: 1313
+calculate velocity: : 1050
+update position: 82
+Pass data to opengl: 482
+grid setup: 1252
+calculate velocity: : 1073
+update position: 85
+Pass data to opengl: 465
+grid setup: 1220
+calculate velocity: : 1041
+update position: 86
+Pass data to opengl: 473
+grid setup: 1233
+calculate velocity: : 1065
+update position: 85
+Pass data to opengl: 452
+grid setup: 1271
+calculate velocity: : 1042
+update position: 91
+Pass data to opengl: 516
+grid setup: 1231
+calculate velocity: : 1048
+update position: 87
+Pass data to opengl: 475
+grid setup: 1205
+calculate velocity: : 1042
+update position: 84
+Pass data to opengl: 495
+grid setup: 1220
+calculate velocity: : 1049
+update position: 86
+Pass data to opengl: 468
+grid setup: 1194
+calculate velocity: : 1037
+update position: 87
+Pass data to opengl: 474
+grid setup: 1196
+calculate velocity: : 1051
+update position: 88
+Pass data to opengl: 464
+grid setup: 1236
+calculate velocity: : 1048
+update position: 84
+Pass data to opengl: 473
+grid setup: 1203
+calculate velocity: : 1063
+update position: 85
+Pass data to opengl: 503
+grid setup: 1232
+calculate velocity: : 1036
+update position: 83
+Pass data to opengl: 466
+grid setup: 1238
+calculate velocity: : 1061
+update position: 84
+Pass data to opengl: 461
+grid setup: 1189
+calculate velocity: : 1065
+update position: 86
+Pass data to opengl: 471
+grid setup: 1247
+calculate velocity: : 1055
+update position: 84
+Pass data to opengl: 472
+grid setup: 1251
+calculate velocity: : 1049
+update position: 84
+Pass data to opengl: 470
+grid setup: 1239
+calculate velocity: : 1060
+update position: 90
+Pass data to opengl: 468
+grid setup: 1315
+calculate velocity: : 1050
+update position: 86
+Pass data to opengl: 471
+grid setup: 1170
+calculate velocity: : 1050
+update position: 83
+Pass data to opengl: 469
+grid setup: 2658
+calculate velocity: : 2137
+update position: 125
+Pass data to opengl: 560
+grid setup: 1253
+calculate velocity: : 1063
+update position: 84
+Pass data to opengl: 482
+grid setup: 1243
+calculate velocity: : 1069
+update position: 89
+Pass data to opengl: 480
+grid setup: 1210
+calculate velocity: : 1063
+update position: 84
+Pass data to opengl: 471
+grid setup: 1234
+calculate velocity: : 1067
+update position: 83
+Pass data to opengl: 472
+grid setup: 1257
+calculate velocity: : 1076
+update position: 88
+Pass data to opengl: 473
+grid setup: 1250
+calculate velocity: : 1046
+update position: 82
+Pass data to opengl: 472
+grid setup: 1265
+calculate velocity: : 1057
+update position: 86
+Pass data to opengl: 470
+grid setup: 1252
+calculate velocity: : 1056
+update position: 83
+Pass data to opengl: 470
+grid setup: 1211
+calculate velocity: : 1060
+update position: 84
+Pass data to opengl: 466
+grid setup: 1253
+calculate velocity: : 1047
+update position: 86
+Pass data to opengl: 468
+grid setup: 1245
+calculate velocity: : 1049
+update position: 91
+Pass data to opengl: 468
+grid setup: 1257
+calculate velocity: : 1062
+update position: 85
+Pass data to opengl: 481
+grid setup: 1244
+calculate velocity: : 1061
+update position: 86
+Pass data to opengl: 467
+grid setup: 1244
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 469
+grid setup: 1281
+calculate velocity: : 1075
+update position: 91
+Pass data to opengl: 472
+grid setup: 1227
+calculate velocity: : 1074
+update position: 84
+Pass data to opengl: 543
+grid setup: 1281
+calculate velocity: : 1064
+update position: 87
+Pass data to opengl: 475
+grid setup: 1265
+calculate velocity: : 1056
+update position: 90
+Pass data to opengl: 539
+grid setup: 1328
+calculate velocity: : 1075
+update position: 101
+Pass data to opengl: 516
+grid setup: 1250
+calculate velocity: : 1055
+update position: 88
+Pass data to opengl: 476
+grid setup: 1244
+calculate velocity: : 1065
+update position: 83
+Pass data to opengl: 473
+grid setup: 1237
+calculate velocity: : 1050
+update position: 85
+Pass data to opengl: 472
+grid setup: 1298
+calculate velocity: : 1085
+update position: 88
+Pass data to opengl: 476
+grid setup: 2635
+calculate velocity: : 1046
+update position: 86
+Pass data to opengl: 514
+grid setup: 1315
+calculate velocity: : 1056
+update position: 86
+Pass data to opengl: 484
+grid setup: 1333
+calculate velocity: : 1802
+update position: 109
+Pass data to opengl: 495
+grid setup: 1245
+calculate velocity: : 1057
+update position: 90
+Pass data to opengl: 476
+grid setup: 1248
+calculate velocity: : 1073
+update position: 89
+Pass data to opengl: 469
+grid setup: 1244
+calculate velocity: : 1056
+update position: 89
+Pass data to opengl: 479
+grid setup: 1348
+calculate velocity: : 1089
+update position: 92
+Pass data to opengl: 474
+grid setup: 1504
+calculate velocity: : 1076
+update position: 97
+Pass data to opengl: 498
+grid setup: 1248
+calculate velocity: : 1074
+update position: 90
+Pass data to opengl: 518
+grid setup: 1243
+calculate velocity: : 1057
+update position: 96
+Pass data to opengl: 480
+grid setup: 1256
+calculate velocity: : 1053
+update position: 88
+Pass data to opengl: 472
+grid setup: 1247
+calculate velocity: : 1074
+update position: 90
+Pass data to opengl: 481
+grid setup: 1334
+calculate velocity: : 1072
+update position: 106
+Pass data to opengl: 513
+grid setup: 1293
+calculate velocity: : 1056
+update position: 92
+Pass data to opengl: 493
+grid setup: 1344
+calculate velocity: : 1052
+update position: 91
+Pass data to opengl: 481
+grid setup: 1252
+calculate velocity: : 1070
+update position: 96
+Pass data to opengl: 490
+grid setup: 1269
+calculate velocity: : 1064
+update position: 90
+Pass data to opengl: 489
+grid setup: 1341
+calculate velocity: : 1078
+update position: 89
+Pass data to opengl: 484
+grid setup: 1212
+calculate velocity: : 1057
+update position: 91
+Pass data to opengl: 472
+grid setup: 1261
+calculate velocity: : 1076
+update position: 90
+Pass data to opengl: 469
+grid setup: 1274
+calculate velocity: : 1075
+update position: 83
+Pass data to opengl: 467
+grid setup: 1198
+calculate velocity: : 1061
+update position: 90
+Pass data to opengl: 510
+grid setup: 1259
+calculate velocity: : 1059
+update position: 139
+Pass data to opengl: 498
+grid setup: 1252
+calculate velocity: : 1063
+update position: 90
+Pass data to opengl: 549
+grid setup: 1237
+calculate velocity: : 1070
+update position: 92
+Pass data to opengl: 468
+grid setup: 1195
+calculate velocity: : 1078
+update position: 94
+Pass data to opengl: 482
+grid setup: 1224
+calculate velocity: : 1074
+update position: 89
+Pass data to opengl: 474
+grid setup: 1260
+calculate velocity: : 1059
+update position: 85
+Pass data to opengl: 477
+grid setup: 1242
+calculate velocity: : 1059
+update position: 88
+Pass data to opengl: 467
+grid setup: 1341
+calculate velocity: : 1093
+update position: 111
+Pass data to opengl: 472
+grid setup: 1334
+calculate velocity: : 1075
+update position: 91
+Pass data to opengl: 475
+grid setup: 1268
+calculate velocity: : 1077
+update position: 91
+Pass data to opengl: 469
+grid setup: 1266
+calculate velocity: : 1081
+update position: 86
+Pass data to opengl: 470
+grid setup: 1218
+calculate velocity: : 1100
+update position: 85
+Pass data to opengl: 472
+grid setup: 1318
+calculate velocity: : 1074
+update position: 87
+Pass data to opengl: 470
+grid setup: 1270
+calculate velocity: : 1082
+update position: 87
+Pass data to opengl: 503
+grid setup: 1406
+calculate velocity: : 1119
+update position: 132
+Pass data to opengl: 486
+grid setup: 1274
+calculate velocity: : 1080
+update position: 83
+Pass data to opengl: 480
+grid setup: 1274
+calculate velocity: : 1092
+update position: 85
+Pass data to opengl: 471
+grid setup: 1475
+calculate velocity: : 1070
+update position: 88
+Pass data to opengl: 482
+grid setup: 1258
+calculate velocity: : 1087
+update position: 84
+Pass data to opengl: 464
+grid setup: 1250
+calculate velocity: : 1089
+update position: 81
+Pass data to opengl: 472
+grid setup: 1230
+calculate velocity: : 1096
+update position: 86
+Pass data to opengl: 472
+grid setup: 1282
+calculate velocity: : 1103
+update position: 88
+Pass data to opengl: 530
+grid setup: 1263
+calculate velocity: : 1085
+update position: 88
+Pass data to opengl: 470
+grid setup: 1243
+calculate velocity: : 1116
+update position: 83
+Pass data to opengl: 481
+grid setup: 1304
+calculate velocity: : 1090
+update position: 84
+Pass data to opengl: 478
+grid setup: 1253
+calculate velocity: : 1110
+update position: 83
+Pass data to opengl: 472
+grid setup: 1272
+calculate velocity: : 1091
+update position: 88
+Pass data to opengl: 474
+grid setup: 1245
+calculate velocity: : 1107
+update position: 84
+Pass data to opengl: 472
+grid setup: 1266
+calculate velocity: : 1087
+update position: 85
+Pass data to opengl: 473
+grid setup: 2385
+calculate velocity: : 1592
+update position: 92
+Pass data to opengl: 544
+grid setup: 1278
+calculate velocity: : 1095
+update position: 89
+Pass data to opengl: 472
+grid setup: 1248
+calculate velocity: : 1110
+update position: 91
+Pass data to opengl: 472
+grid setup: 1288
+calculate velocity: : 1086
+update position: 109
+Pass data to opengl: 699
+grid setup: 2010
+calculate velocity: : 1095
+update position: 84
+Pass data to opengl: 486
+grid setup: 1204
+calculate velocity: : 1098
+update position: 91
+Pass data to opengl: 480
+grid setup: 1269
+calculate velocity: : 1107
+update position: 84
+Pass data to opengl: 476
+grid setup: 1244
+calculate velocity: : 1098
+update position: 85
+Pass data to opengl: 468
+grid setup: 1316
+calculate velocity: : 1116
+update position: 96
+Pass data to opengl: 500
+grid setup: 1273
+calculate velocity: : 1094
+update position: 86
+Pass data to opengl: 498
+grid setup: 1320
+calculate velocity: : 1091
+update position: 88
+Pass data to opengl: 467
+grid setup: 1275
+calculate velocity: : 1080
+update position: 85
+Pass data to opengl: 488
+grid setup: 1219
+calculate velocity: : 1105
+update position: 83
+Pass data to opengl: 472
+grid setup: 1302
+calculate velocity: : 1101
+update position: 101
+Pass data to opengl: 516
+grid setup: 1254
+calculate velocity: : 1099
+update position: 85
+Pass data to opengl: 472
+grid setup: 1253
+calculate velocity: : 1095
+update position: 84
+Pass data to opengl: 474
+grid setup: 1267
+calculate velocity: : 1099
+update position: 84
+Pass data to opengl: 476
+grid setup: 1271
+calculate velocity: : 1081
+update position: 82
+Pass data to opengl: 476
+grid setup: 1266
+calculate velocity: : 1108
+update position: 85
+Pass data to opengl: 467
+grid setup: 1170
+calculate velocity: : 1090
+update position: 88
+Pass data to opengl: 482
+grid setup: 1274
+calculate velocity: : 1102
+update position: 92
+Pass data to opengl: 469
+grid setup: 1228
+calculate velocity: : 1092
+update position: 87
+Pass data to opengl: 469
+grid setup: 1258
+calculate velocity: : 1110
+update position: 85
+Pass data to opengl: 471
+grid setup: 1404
+calculate velocity: : 1105
+update position: 144
+Pass data to opengl: 496
+grid setup: 1276
+calculate velocity: : 1102
+update position: 124
+Pass data to opengl: 521
+grid setup: 1444
+calculate velocity: : 1107
+update position: 112
+Pass data to opengl: 488
+grid setup: 1271
+calculate velocity: : 1088
+update position: 88
+Pass data to opengl: 471
+grid setup: 1264
+calculate velocity: : 1099
+update position: 83
+Pass data to opengl: 477
+grid setup: 1212
+calculate velocity: : 1087
+update position: 151
+Pass data to opengl: 487
+grid setup: 1427
+calculate velocity: : 1106
+update position: 139
+Pass data to opengl: 516
+grid setup: 1394
+calculate velocity: : 1128
+update position: 142
+Pass data to opengl: 510
+grid setup: 1271
+calculate velocity: : 1080
+update position: 90
+Pass data to opengl: 488
+grid setup: 1276
+calculate velocity: : 1109
+update position: 88
+Pass data to opengl: 473
+grid setup: 1278
+calculate velocity: : 1082
+update position: 92
+Pass data to opengl: 489
+grid setup: 1257
+calculate velocity: : 1099
+update position: 87
+Pass data to opengl: 472
+grid setup: 1221
+calculate velocity: : 1083
+update position: 94
+Pass data to opengl: 487
+grid setup: 1268
+calculate velocity: : 1106
+update position: 93
+Pass data to opengl: 468
+grid setup: 1279
+calculate velocity: : 1079
+update position: 100
+Pass data to opengl: 552
+grid setup: 1325
+calculate velocity: : 1106
+update position: 88
+Pass data to opengl: 487
+grid setup: 1259
+calculate velocity: : 1078
+update position: 87
+Pass data to opengl: 473
+grid setup: 1283
+calculate velocity: : 1094
+update position: 92
+Pass data to opengl: 509
+grid setup: 1397
+calculate velocity: : 1111
+update position: 140
+Pass data to opengl: 517
+grid setup: 1361
+calculate velocity: : 1111
+update position: 93
+Pass data to opengl: 468
+grid setup: 1314
+calculate velocity: : 1085
+update position: 87
+Pass data to opengl: 468
+grid setup: 1276
+calculate velocity: : 1093
+update position: 90
+Pass data to opengl: 463
+grid setup: 1259
+calculate velocity: : 1066
+update position: 86
+Pass data to opengl: 482
+grid setup: 1368
+calculate velocity: : 1089
+update position: 87
+Pass data to opengl: 489
+grid setup: 1394
+calculate velocity: : 1094
+update position: 95
+Pass data to opengl: 520
+grid setup: 1257
+calculate velocity: : 1094
+update position: 90
+Pass data to opengl: 493
+grid setup: 1243
+calculate velocity: : 1062
+update position: 92
+Pass data to opengl: 475
+grid setup: 1252
+calculate velocity: : 1089
+update position: 90
+Pass data to opengl: 477
+grid setup: 1260
+calculate velocity: : 1098
+update position: 93
+Pass data to opengl: 478
+grid setup: 1232
+calculate velocity: : 1074
+update position: 90
+Pass data to opengl: 517
+grid setup: 1268
+calculate velocity: : 1059
+update position: 82
+Pass data to opengl: 487
+grid setup: 1262
+calculate velocity: : 1078
+update position: 84
+Pass data to opengl: 467
+grid setup: 1396
+calculate velocity: : 1098
+update position: 144
+Pass data to opengl: 525
+grid setup: 1325
+calculate velocity: : 1090
+update position: 91
+Pass data to opengl: 504
+grid setup: 1329
+calculate velocity: : 1067
+update position: 86
+Pass data to opengl: 474
+grid setup: 1400
+calculate velocity: : 1117
+update position: 122
+Pass data to opengl: 460
+grid setup: 1284
+calculate velocity: : 1075
+update position: 89
+Pass data to opengl: 481
+grid setup: 1268
+calculate velocity: : 1088
+update position: 91
+Pass data to opengl: 490
+grid setup: 1284
+calculate velocity: : 1096
+update position: 140
+Pass data to opengl: 498
+grid setup: 1322
+calculate velocity: : 1086
+update position: 91
+Pass data to opengl: 470
+grid setup: 1329
+calculate velocity: : 1052
+update position: 92
+Pass data to opengl: 477
+grid setup: 1388
+calculate velocity: : 1088
+update position: 141
+Pass data to opengl: 558
+grid setup: 1247
+calculate velocity: : 1066
+update position: 105
+Pass data to opengl: 630
+grid setup: 1263
+calculate velocity: : 1062
+update position: 92
+Pass data to opengl: 484
+grid setup: 1262
+calculate velocity: : 1059
+update position: 100
+Pass data to opengl: 496
+grid setup: 1210
+calculate velocity: : 1069
+update position: 89
+Pass data to opengl: 469
+grid setup: 1322
+calculate velocity: : 1064
+update position: 83
+Pass data to opengl: 476
+grid setup: 1362
+calculate velocity: : 1120
+update position: 134
+Pass data to opengl: 531
+grid setup: 1270
+calculate velocity: : 1062
+update position: 106
+Pass data to opengl: 500
+grid setup: 1225
+calculate velocity: : 1080
+update position: 90
+Pass data to opengl: 469
+grid setup: 1395
+calculate velocity: : 1071
+update position: 133
+Pass data to opengl: 519
+grid setup: 1390
+calculate velocity: : 1109
+update position: 119
+Pass data to opengl: 491
+grid setup: 2694
+calculate velocity: : 1292
+update position: 139
+Pass data to opengl: 600
+grid setup: 1327
+calculate velocity: : 1076
+update position: 107
+Pass data to opengl: 519
+grid setup: 1260
+calculate velocity: : 1057
+update position: 85
+Pass data to opengl: 475
+grid setup: 1290
+calculate velocity: : 1060
+update position: 84
+Pass data to opengl: 476
+grid setup: 1375
+calculate velocity: : 1079
+update position: 110
+Pass data to opengl: 600
+grid setup: 1255
+calculate velocity: : 1055
+update position: 482
+Pass data to opengl: 506
+grid setup: 1260
+calculate velocity: : 1047
+update position: 83
+Pass data to opengl: 467
+grid setup: 1252
+calculate velocity: : 1071
+update position: 83
+Pass data to opengl: 499
+grid setup: 1268
+calculate velocity: : 1061
+update position: 84
+Pass data to opengl: 528
+grid setup: 1278
+calculate velocity: : 1092
+update position: 92
+Pass data to opengl: 495
+grid setup: 1411
+calculate velocity: : 1086
+update position: 91
+Pass data to opengl: 471
+grid setup: 1216
+calculate velocity: : 1074
+update position: 85
+Pass data to opengl: 481
+grid setup: 1272
+calculate velocity: : 1084
+update position: 84
+Pass data to opengl: 479
+grid setup: 1266
+calculate velocity: : 1054
+update position: 85
+Pass data to opengl: 487
+grid setup: 1274
+calculate velocity: : 1057
+update position: 86
+Pass data to opengl: 464
+grid setup: 1273
+calculate velocity: : 1076
+update position: 90
+Pass data to opengl: 476
+grid setup: 1221
+calculate velocity: : 1072
+update position: 88
+Pass data to opengl: 460
+grid setup: 1265
+calculate velocity: : 1072
+update position: 84
+Pass data to opengl: 474
+grid setup: 1235
+calculate velocity: : 1062
+update position: 89
+Pass data to opengl: 470
+grid setup: 1232
+calculate velocity: : 1076
+update position: 97
+Pass data to opengl: 499
+grid setup: 1232
+calculate velocity: : 1058
+update position: 128
+Pass data to opengl: 560
+grid setup: 1283
+calculate velocity: : 1073
+update position: 92
+Pass data to opengl: 493
+grid setup: 1298
+calculate velocity: : 1068
+update position: 91
+Pass data to opengl: 527
+grid setup: 1237
+calculate velocity: : 1074
+update position: 85
+Pass data to opengl: 469
+grid setup: 1271
+calculate velocity: : 1060
+update position: 83
+Pass data to opengl: 476
+grid setup: 1269
+calculate velocity: : 1066
+update position: 88
+Pass data to opengl: 499
+grid setup: 1361
+calculate velocity: : 1080
+update position: 89
+Pass data to opengl: 499
+grid setup: 1228
+calculate velocity: : 1081
+update position: 83
+Pass data to opengl: 471
+grid setup: 1236
+calculate velocity: : 1058
+update position: 87
+Pass data to opengl: 461
+grid setup: 1282
+calculate velocity: : 1067
+update position: 84
+Pass data to opengl: 475
+grid setup: 1385
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 496
+grid setup: 1274
+calculate velocity: : 1078
+update position: 89
+Pass data to opengl: 472
+grid setup: 1273
+calculate velocity: : 1064
+update position: 86
+Pass data to opengl: 472
+grid setup: 1268
+calculate velocity: : 1082
+update position: 87
+Pass data to opengl: 473
+grid setup: 1278
+calculate velocity: : 1058
+update position: 88
+Pass data to opengl: 471
+grid setup: 1282
+calculate velocity: : 1072
+update position: 92
+Pass data to opengl: 471
+grid setup: 1255
+calculate velocity: : 1057
+update position: 92
+Pass data to opengl: 475
+grid setup: 1252
+calculate velocity: : 1062
+update position: 87
+Pass data to opengl: 1024
+grid setup: 1273
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 478
+grid setup: 1229
+calculate velocity: : 1042
+update position: 84
+Pass data to opengl: 483
+grid setup: 1251
+calculate velocity: : 1055
+update position: 82
+Pass data to opengl: 474
+grid setup: 1282
+calculate velocity: : 1063
+update position: 90
+Pass data to opengl: 467
+grid setup: 1269
+calculate velocity: : 1049
+update position: 86
+Pass data to opengl: 470
+grid setup: 1150
+calculate velocity: : 1066
+update position: 83
+Pass data to opengl: 467
+grid setup: 1266
+calculate velocity: : 1063
+update position: 84
+Pass data to opengl: 520
+grid setup: 1232
+calculate velocity: : 1054
+update position: 91
+Pass data to opengl: 469
+grid setup: 1267
+calculate velocity: : 1051
+update position: 85
+Pass data to opengl: 476
+grid setup: 1273
+calculate velocity: : 1048
+update position: 86
+Pass data to opengl: 465
+grid setup: 1289
+calculate velocity: : 1044
+update position: 90
+Pass data to opengl: 483
+grid setup: 1231
+calculate velocity: : 1036
+update position: 88
+Pass data to opengl: 467
+grid setup: 1298
+calculate velocity: : 1085
+update position: 131
+Pass data to opengl: 528
+grid setup: 1401
+calculate velocity: : 1067
+update position: 106
+Pass data to opengl: 518
+grid setup: 2357
+calculate velocity: : 2177
+update position: 110
+Pass data to opengl: 544
+grid setup: 1301
+calculate velocity: : 1393
+update position: 83
+Pass data to opengl: 495
+grid setup: 1257
+calculate velocity: : 1047
+update position: 90
+Pass data to opengl: 479
+grid setup: 1203
+calculate velocity: : 1063
+update position: 94
+Pass data to opengl: 477
+grid setup: 1283
+calculate velocity: : 1047
+update position: 93
+Pass data to opengl: 490
+grid setup: 1275
+calculate velocity: : 1063
+update position: 91
+Pass data to opengl: 493
+grid setup: 1303
+calculate velocity: : 1060
+update position: 89
+Pass data to opengl: 491
+grid setup: 1229
+calculate velocity: : 1050
+update position: 84
+Pass data to opengl: 468
+grid setup: 1291
+calculate velocity: : 1043
+update position: 91
+Pass data to opengl: 478
+grid setup: 1204
+calculate velocity: : 1060
+update position: 93
+Pass data to opengl: 469
+grid setup: 1260
+calculate velocity: : 1049
+update position: 96
+Pass data to opengl: 469
+grid setup: 1212
+calculate velocity: : 1063
+update position: 89
+Pass data to opengl: 470
+grid setup: 1277
+calculate velocity: : 1040
+update position: 83
+Pass data to opengl: 488
+grid setup: 1292
+calculate velocity: : 1061
+update position: 89
+Pass data to opengl: 530
+grid setup: 1274
+calculate velocity: : 1064
+update position: 106
+Pass data to opengl: 532
+grid setup: 1233
+calculate velocity: : 1072
+update position: 87
+Pass data to opengl: 480
+grid setup: 1270
+calculate velocity: : 1045
+update position: 87
+Pass data to opengl: 472
+grid setup: 1321
+calculate velocity: : 1085
+update position: 140
+Pass data to opengl: 610
+grid setup: 1275
+calculate velocity: : 1049
+update position: 84
+Pass data to opengl: 512
+grid setup: 1267
+calculate velocity: : 1062
+update position: 86
+Pass data to opengl: 485
+grid setup: 1259
+calculate velocity: : 1040
+update position: 88
+Pass data to opengl: 478
+grid setup: 1259
+calculate velocity: : 1054
+update position: 91
+Pass data to opengl: 477
+grid setup: 1332
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 478
+grid setup: 1918
+calculate velocity: : 1234
+update position: 127
+Pass data to opengl: 506
+grid setup: 1201
+calculate velocity: : 1040
+update position: 92
+Pass data to opengl: 570
+grid setup: 1273
+calculate velocity: : 1050
+update position: 85
+Pass data to opengl: 474
+grid setup: 1264
+calculate velocity: : 1044
+update position: 89
+Pass data to opengl: 474
+grid setup: 1247
+calculate velocity: : 1078
+update position: 82
+Pass data to opengl: 518
+grid setup: 1272
+calculate velocity: : 1066
+update position: 85
+Pass data to opengl: 486
+grid setup: 1395
+calculate velocity: : 1175
+update position: 115
+Pass data to opengl: 484
+grid setup: 1265
+calculate velocity: : 1053
+update position: 87
+Pass data to opengl: 471
+grid setup: 1265
+calculate velocity: : 1162
+update position: 86
+Pass data to opengl: 474
+grid setup: 1218
+calculate velocity: : 1051
+update position: 83
+Pass data to opengl: 476
+grid setup: 1269
+calculate velocity: : 1116
+update position: 92
+Pass data to opengl: 515
+grid setup: 1251
+calculate velocity: : 1058
+update position: 93
+Pass data to opengl: 516
+grid setup: 1320
+calculate velocity: : 1058
+update position: 86
+Pass data to opengl: 472
+grid setup: 1379
+calculate velocity: : 1112
+update position: 83
+Pass data to opengl: 469
+grid setup: 1271
+calculate velocity: : 1065
+update position: 87
+Pass data to opengl: 469
+grid setup: 1270
+calculate velocity: : 1059
+update position: 94
+Pass data to opengl: 469
+grid setup: 1257
+calculate velocity: : 1145
+update position: 86
+Pass data to opengl: 470
+grid setup: 1272
+calculate velocity: : 1127
+update position: 85
+Pass data to opengl: 472
+grid setup: 1229
+calculate velocity: : 1117
+update position: 82
+Pass data to opengl: 466
+grid setup: 1266
+calculate velocity: : 1106
+update position: 85
+Pass data to opengl: 483
+grid setup: 1232
+calculate velocity: : 1131
+update position: 87
+Pass data to opengl: 490
+grid setup: 1273
+calculate velocity: : 1116
+update position: 84
+Pass data to opengl: 474
+grid setup: 1250
+calculate velocity: : 1143
+update position: 147
+Pass data to opengl: 472
+grid setup: 1207
+calculate velocity: : 1059
+update position: 87
+Pass data to opengl: 468
+grid setup: 1284
+calculate velocity: : 1136
+update position: 90
+Pass data to opengl: 479
+grid setup: 2020
+calculate velocity: : 1228
+update position: 94
+Pass data to opengl: 550
+grid setup: 1273
+calculate velocity: : 1076
+update position: 84
+Pass data to opengl: 470
+grid setup: 1205
+calculate velocity: : 1054
+update position: 82
+Pass data to opengl: 483
+grid setup: 1222
+calculate velocity: : 1077
+update position: 85
+Pass data to opengl: 492
+grid setup: 1263
+calculate velocity: : 1039
+update position: 84
+Pass data to opengl: 518
+grid setup: 1274
+calculate velocity: : 1060
+update position: 87
+Pass data to opengl: 468
+grid setup: 1275
+calculate velocity: : 1064
+update position: 90
+Pass data to opengl: 471
+grid setup: 1251
+calculate velocity: : 1138
+update position: 83
+Pass data to opengl: 511
+grid setup: 1228
+calculate velocity: : 1066
+update position: 88
+Pass data to opengl: 491
+grid setup: 1230
+calculate velocity: : 1079
+update position: 84
+Pass data to opengl: 481
+grid setup: 1201
+calculate velocity: : 1068
+update position: 87
+Pass data to opengl: 467
+grid setup: 1264
+calculate velocity: : 1070
+update position: 84
+Pass data to opengl: 484
+grid setup: 1706
+calculate velocity: : 1063
+update position: 114
+Pass data to opengl: 628
+grid setup: 1225
+calculate velocity: : 1080
+update position: 86
+Pass data to opengl: 555
+grid setup: 1407
+calculate velocity: : 1064
+update position: 88
+Pass data to opengl: 477
+grid setup: 1402
+calculate velocity: : 1096
+update position: 112
+Pass data to opengl: 474
+grid setup: 1258
+calculate velocity: : 1057
+update position: 84
+Pass data to opengl: 487
+grid setup: 1229
+calculate velocity: : 1055
+update position: 88
+Pass data to opengl: 481
+grid setup: 1220
+calculate velocity: : 1073
+update position: 85
+Pass data to opengl: 471
+grid setup: 1264
+calculate velocity: : 1075
+update position: 92
+Pass data to opengl: 472
+grid setup: 1311
+calculate velocity: : 1053
+update position: 86
+Pass data to opengl: 472
+grid setup: 1230
+calculate velocity: : 1083
+update position: 84
+Pass data to opengl: 503
+grid setup: 1269
+calculate velocity: : 1068
+update position: 86
+Pass data to opengl: 466
+grid setup: 1246
+calculate velocity: : 1077
+update position: 86
+Pass data to opengl: 471
+grid setup: 1297
+calculate velocity: : 1054
+update position: 83
+Pass data to opengl: 471
+grid setup: 1260
+calculate velocity: : 1084
+update position: 87
+Pass data to opengl: 516
+grid setup: 1203
+calculate velocity: : 1085
+update position: 88
+Pass data to opengl: 476
+grid setup: 1275
+calculate velocity: : 1090
+update position: 110
+Pass data to opengl: 534
+grid setup: 1842
+calculate velocity: : 1069
+update position: 90
+Pass data to opengl: 474
+grid setup: 1268
+calculate velocity: : 1071
+update position: 85
+Pass data to opengl: 525
+grid setup: 1272
+calculate velocity: : 1073
+update position: 82
+Pass data to opengl: 527
+grid setup: 1233
+calculate velocity: : 1072
+update position: 84
+Pass data to opengl: 471
+grid setup: 1264
+calculate velocity: : 1058
+update position: 89
+Pass data to opengl: 470
+grid setup: 1153
+calculate velocity: : 1085
+update position: 86
+Pass data to opengl: 471
+grid setup: 1270
+calculate velocity: : 1078
+update position: 87
+Pass data to opengl: 470
+grid setup: 1277
+calculate velocity: : 1077
+update position: 89
+Pass data to opengl: 471
+grid setup: 1267
+calculate velocity: : 1071
+update position: 84
+Pass data to opengl: 473
+grid setup: 1232
+calculate velocity: : 1078
+update position: 82
+Pass data to opengl: 467
+grid setup: 1270
+calculate velocity: : 1084
+update position: 87
+Pass data to opengl: 468
+grid setup: 1217
+calculate velocity: : 1076
+update position: 86
+Pass data to opengl: 468
+grid setup: 1214
+calculate velocity: : 1061
+update position: 85
+Pass data to opengl: 469
+grid setup: 1231
+calculate velocity: : 1055
+update position: 89
+Pass data to opengl: 468
+grid setup: 1268
+calculate velocity: : 1061
+update position: 84
+Pass data to opengl: 470
+grid setup: 1259
+calculate velocity: : 1086
+update position: 92
+Pass data to opengl: 474
+grid setup: 1181
+calculate velocity: : 1052
+update position: 85
+Pass data to opengl: 473
+grid setup: 1268
+calculate velocity: : 1080
+update position: 90
+Pass data to opengl: 516
+grid setup: 1267
+calculate velocity: : 1065
+update position: 92
+Pass data to opengl: 481
+grid setup: 1264
+calculate velocity: : 1056
+update position: 82
+Pass data to opengl: 474
+grid setup: 1226
+calculate velocity: : 1059
+update position: 91
+Pass data to opengl: 575
+grid setup: 1212
+calculate velocity: : 1059
+update position: 85
+Pass data to opengl: 470
+grid setup: 2262
+calculate velocity: : 1974
+update position: 87
+Pass data to opengl: 552
+grid setup: 1222
+calculate velocity: : 1080
+update position: 86
+Pass data to opengl: 494
+grid setup: 1264
+calculate velocity: : 1057
+update position: 92
+Pass data to opengl: 494
+grid setup: 1207
+calculate velocity: : 1082
+update position: 85
+Pass data to opengl: 478
+grid setup: 1278
+calculate velocity: : 1069
+update position: 86
+Pass data to opengl: 474
+grid setup: 1349
+calculate velocity: : 1072
+update position: 85
+Pass data to opengl: 471
+grid setup: 1277
+calculate velocity: : 1053
+update position: 87
+Pass data to opengl: 476
+grid setup: 1192
+calculate velocity: : 1065
+update position: 84
+Pass data to opengl: 470
+grid setup: 1230
+calculate velocity: : 1070
+update position: 115
+Pass data to opengl: 519
+grid setup: 1304
+calculate velocity: : 1064
+update position: 107
+Pass data to opengl: 518
+grid setup: 1369
+calculate velocity: : 1057
+update position: 83
+Pass data to opengl: 526
+grid setup: 1261
+calculate velocity: : 1079
+update position: 83
+Pass data to opengl: 467
+grid setup: 1277
+calculate velocity: : 1050
+update position: 88
+Pass data to opengl: 483
+grid setup: 1273
+calculate velocity: : 1077
+update position: 91
+Pass data to opengl: 476
+grid setup: 1268
+calculate velocity: : 1068
+update position: 86
+Pass data to opengl: 518
+grid setup: 1277
+calculate velocity: : 1076
+update position: 92
+Pass data to opengl: 470
+grid setup: 1363
+calculate velocity: : 1052
+update position: 86
+Pass data to opengl: 471
+grid setup: 1394
+calculate velocity: : 1093
+update position: 141
+Pass data to opengl: 573
+grid setup: 1407
+calculate velocity: : 1074
+update position: 145
+Pass data to opengl: 527
+grid setup: 1236
+calculate velocity: : 1079
+update position: 90
+Pass data to opengl: 469
+grid setup: 1342
+calculate velocity: : 1075
+update position: 83
+Pass data to opengl: 514
+grid setup: 1272
+calculate velocity: : 1081
+update position: 84
+Pass data to opengl: 472
+grid setup: 1308
+calculate velocity: : 1060
+update position: 83
+Pass data to opengl: 483
+grid setup: 1354
+calculate velocity: : 1071
+update position: 88
+Pass data to opengl: 469
+grid setup: 1205
+calculate velocity: : 1051
+update position: 90
+Pass data to opengl: 514
+grid setup: 1312
+calculate velocity: : 1086
+update position: 102
+Pass data to opengl: 557
+grid setup: 1304
+calculate velocity: : 1028
+update position: 102
+Pass data to opengl: 534
+grid setup: 1378
+calculate velocity: : 1069
+update position: 96
+Pass data to opengl: 516
+grid setup: 1328
+calculate velocity: : 1041
+update position: 84
+Pass data to opengl: 471
+grid setup: 1219
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 467
+grid setup: 1221
+calculate velocity: : 1046
+update position: 84
+Pass data to opengl: 476
+grid setup: 1265
+calculate velocity: : 1062
+update position: 87
+Pass data to opengl: 523
+grid setup: 1206
+calculate velocity: : 1032
+update position: 90
+Pass data to opengl: 473
+grid setup: 1226
+calculate velocity: : 1046
+update position: 86
+Pass data to opengl: 469
+grid setup: 1216
+calculate velocity: : 1064
+update position: 86
+Pass data to opengl: 467
+grid setup: 1266
+calculate velocity: : 1058
+update position: 85
+Pass data to opengl: 511
+grid setup: 1269
+calculate velocity: : 1050
+update position: 94
+Pass data to opengl: 470
+grid setup: 1325
+calculate velocity: : 1049
+update position: 90
+Pass data to opengl: 508
+grid setup: 1341
+calculate velocity: : 1045
+update position: 84
+Pass data to opengl: 477
+grid setup: 1258
+calculate velocity: : 1873
+update position: 120
+Pass data to opengl: 588
+grid setup: 1325
+calculate velocity: : 1043
+update position: 84
+Pass data to opengl: 478
+grid setup: 1271
+calculate velocity: : 1053
+update position: 87
+Pass data to opengl: 514
+grid setup: 1408
+calculate velocity: : 1076
+update position: 138
+Pass data to opengl: 515
+grid setup: 1379
+calculate velocity: : 1087
+update position: 140
+Pass data to opengl: 515
+grid setup: 1278
+calculate velocity: : 1029
+update position: 86
+Pass data to opengl: 522
+grid setup: 1270
+calculate velocity: : 1062
+update position: 85
+Pass data to opengl: 504
+grid setup: 1261
+calculate velocity: : 1068
+update position: 86
+Pass data to opengl: 470
+grid setup: 1269
+calculate velocity: : 1066
+update position: 87
+Pass data to opengl: 472
+grid setup: 1263
+calculate velocity: : 1054
+update position: 89
+Pass data to opengl: 507
+grid setup: 1262
+calculate velocity: : 1045
+update position: 83
+Pass data to opengl: 486
+grid setup: 1416
+calculate velocity: : 1063
+update position: 128
+Pass data to opengl: 565
+grid setup: 1366
+calculate velocity: : 1078
+update position: 123
+Pass data to opengl: 501
+grid setup: 1269
+calculate velocity: : 1044
+update position: 87
+Pass data to opengl: 469
+grid setup: 1246
+calculate velocity: : 1042
+update position: 92
+Pass data to opengl: 519
+grid setup: 1295
+calculate velocity: : 1041
+update position: 93
+Pass data to opengl: 545
+grid setup: 1258
+calculate velocity: : 1060
+update position: 82
+Pass data to opengl: 485
+grid setup: 1194
+calculate velocity: : 1048
+update position: 83
+Pass data to opengl: 466
+grid setup: 1254
+calculate velocity: : 1035
+update position: 86
+Pass data to opengl: 467
+grid setup: 1361
+calculate velocity: : 1034
+update position: 90
+Pass data to opengl: 626
+grid setup: 1261
+calculate velocity: : 1051
+update position: 84
+Pass data to opengl: 484
+grid setup: 1281
+calculate velocity: : 1048
+update position: 84
+Pass data to opengl: 470
+grid setup: 1219
+calculate velocity: : 1037
+update position: 92
+Pass data to opengl: 519
+grid setup: 1227
+calculate velocity: : 1040
+update position: 83
+Pass data to opengl: 477
+grid setup: 1195
+calculate velocity: : 1047
+update position: 88
+Pass data to opengl: 470
+grid setup: 1274
+calculate velocity: : 1051
+update position: 84
+Pass data to opengl: 471
+grid setup: 1231
+calculate velocity: : 1041
+update position: 87
+Pass data to opengl: 462
+grid setup: 1270
+calculate velocity: : 1023
+update position: 85
+Pass data to opengl: 480
+grid setup: 1265
+calculate velocity: : 1041
+update position: 90
+Pass data to opengl: 469
+grid setup: 1284
+calculate velocity: : 1034
+update position: 84
+Pass data to opengl: 503
+grid setup: 1273
+calculate velocity: : 1054
+update position: 88
+Pass data to opengl: 470
+grid setup: 1256
+calculate velocity: : 1037
+update position: 84
+Pass data to opengl: 539
+grid setup: 1966
+calculate velocity: : 1068
+update position: 87
+Pass data to opengl: 483
+grid setup: 1267
+calculate velocity: : 1038
+update position: 139
+Pass data to opengl: 632
+grid setup: 1269
+calculate velocity: : 1056
+update position: 84
+Pass data to opengl: 473
+grid setup: 1367
+calculate velocity: : 1061
+update position: 94
+Pass data to opengl: 531
+grid setup: 3329
+calculate velocity: : 1258
+update position: 146
+Pass data to opengl: 661
+grid setup: 1357
+calculate velocity: : 1025
+update position: 90
+Pass data to opengl: 545
+grid setup: 1273
+calculate velocity: : 1056
+update position: 86
+Pass data to opengl: 470
+grid setup: 1277
+calculate velocity: : 1028
+update position: 84
+Pass data to opengl: 524
+grid setup: 1221
+calculate velocity: : 1040
+update position: 86
+Pass data to opengl: 469
+grid setup: 1282
+calculate velocity: : 1024
+update position: 85
+Pass data to opengl: 470
+grid setup: 1279
+calculate velocity: : 1045
+update position: 83
+Pass data to opengl: 511
+grid setup: 1275
+calculate velocity: : 1025
+update position: 87
+Pass data to opengl: 496
+grid setup: 1239
+calculate velocity: : 1046
+update position: 92
+Pass data to opengl: 472
+grid setup: 1207
+calculate velocity: : 1015
+update position: 86
+Pass data to opengl: 564
+grid setup: 1243
+calculate velocity: : 1034
+update position: 101
+Pass data to opengl: 484
+grid setup: 1253
+calculate velocity: : 1010
+update position: 86
+Pass data to opengl: 470
+grid setup: 1269
+calculate velocity: : 1003
+update position: 86
+Pass data to opengl: 608
+grid setup: 1340
+calculate velocity: : 1026
+update position: 91
+Pass data to opengl: 472
+grid setup: 1267
+calculate velocity: : 1037
+update position: 85
+Pass data to opengl: 473
+grid setup: 1270
+calculate velocity: : 1004
+update position: 85
+Pass data to opengl: 515
+grid setup: 1345
+calculate velocity: : 1031
+update position: 91
+Pass data to opengl: 471
+grid setup: 1219
+calculate velocity: : 1015
+update position: 83
+Pass data to opengl: 471
+grid setup: 1216
+calculate velocity: : 1035
+update position: 85
+Pass data to opengl: 532
+grid setup: 1252
+calculate velocity: : 1025
+update position: 84
+Pass data to opengl: 531
+grid setup: 1217
+calculate velocity: : 1014
+update position: 84
+Pass data to opengl: 471
+grid setup: 1274
+calculate velocity: : 1016
+update position: 86
+Pass data to opengl: 479
+grid setup: 1280
+calculate velocity: : 1032
+update position: 85
+Pass data to opengl: 479
+grid setup: 1260
+calculate velocity: : 1017
+update position: 84
+Pass data to opengl: 479
+grid setup: 1268
+calculate velocity: : 1029
+update position: 86
+Pass data to opengl: 468
+grid setup: 1295
+calculate velocity: : 1020
+update position: 108
+Pass data to opengl: 580
+grid setup: 1261
+calculate velocity: : 1046
+update position: 118
+Pass data to opengl: 580
+grid setup: 1263
+calculate velocity: : 1015
+update position: 92
+Pass data to opengl: 506
+grid setup: 1262
+calculate velocity: : 1022
+update position: 85
+Pass data to opengl: 479
+grid setup: 1240
+calculate velocity: : 1021
+update position: 84
+Pass data to opengl: 521
+grid setup: 1281
+calculate velocity: : 1038
+update position: 93
+Pass data to opengl: 471
+grid setup: 1273
+calculate velocity: : 1010
+update position: 85
+Pass data to opengl: 478
+grid setup: 1229
+calculate velocity: : 1023
+update position: 92
+Pass data to opengl: 586
+grid setup: 1212
+calculate velocity: : 1021
+update position: 88
+Pass data to opengl: 465
+grid setup: 1257
+calculate velocity: : 1039
+update position: 85
+Pass data to opengl: 479
+grid setup: 1274
+calculate velocity: : 1013
+update position: 84
+Pass data to opengl: 513
+grid setup: 1276
+calculate velocity: : 1047
+update position: 90
+Pass data to opengl: 470
+grid setup: 1229
+calculate velocity: : 1004
+update position: 81
+Pass data to opengl: 466
+grid setup: 1348
+calculate velocity: : 1025
+update position: 85
+Pass data to opengl: 554
+grid setup: 1232
+calculate velocity: : 1028
+update position: 89
+Pass data to opengl: 496
+grid setup: 1295
+calculate velocity: : 1032
+update position: 96
+Pass data to opengl: 545
+grid setup: 1250
+calculate velocity: : 1030
+update position: 97
+Pass data to opengl: 526
+grid setup: 1266
+calculate velocity: : 1025
+update position: 87
+Pass data to opengl: 488
+grid setup: 1245
+calculate velocity: : 1034
+update position: 89
+Pass data to opengl: 516
+grid setup: 1359
+calculate velocity: : 1034
+update position: 86
+Pass data to opengl: 518
+grid setup: 1288
+calculate velocity: : 1018
+update position: 86
+Pass data to opengl: 480
+grid setup: 1223
+calculate velocity: : 1035
+update position: 88
+Pass data to opengl: 466
+grid setup: 1356
+calculate velocity: : 1024
+update position: 88
+Pass data to opengl: 515
+grid setup: 1298
+calculate velocity: : 1055
+update position: 87
+Pass data to opengl: 478
+grid setup: 1399
+calculate velocity: : 1027
+update position: 90
+Pass data to opengl: 474
+grid setup: 1216
+calculate velocity: : 1050
+update position: 83
+Pass data to opengl: 540
+grid setup: 1409
+calculate velocity: : 1052
+update position: 130
+Pass data to opengl: 549
+grid setup: 1398
+calculate velocity: : 1076
+update position: 109
+Pass data to opengl: 520
+grid setup: 1386
+calculate velocity: : 1013
+update position: 82
+Pass data to opengl: 544
+grid setup: 1336
+calculate velocity: : 1051
+update position: 83
+Pass data to opengl: 484
+grid setup: 1322
+calculate velocity: : 1023
+update position: 85
+Pass data to opengl: 481
+grid setup: 1409
+calculate velocity: : 1043
+update position: 84
+Pass data to opengl: 571
+grid setup: 1307
+calculate velocity: : 1048
+update position: 104
+Pass data to opengl: 544
+grid setup: 1305
+calculate velocity: : 1072
+update position: 100
+Pass data to opengl: 502
+grid setup: 1276
+calculate velocity: : 1044
+update position: 86
+Pass data to opengl: 548
+grid setup: 1409
+calculate velocity: : 1081
+update position: 94
+Pass data to opengl: 466
+grid setup: 1346
+calculate velocity: : 1062
+update position: 82
+Pass data to opengl: 471
+grid setup: 1262
+calculate velocity: : 1059
+update position: 84
+Pass data to opengl: 467
+grid setup: 1355
+calculate velocity: : 1026
+update position: 88
+Pass data to opengl: 484
+grid setup: 1236
+calculate velocity: : 1070
+update position: 88
+Pass data to opengl: 472
+grid setup: 1267
+calculate velocity: : 1062
+update position: 82
+Pass data to opengl: 512
+grid setup: 1233
+calculate velocity: : 1074
+update position: 87
+Pass data to opengl: 494
+grid setup: 1272
+calculate velocity: : 1049
+update position: 86
+Pass data to opengl: 478
+grid setup: 1276
+calculate velocity: : 1055
+update position: 86
+Pass data to opengl: 545
+grid setup: 1265
+calculate velocity: : 1052
+update position: 86
+Pass data to opengl: 473
+grid setup: 1282
+calculate velocity: : 1076
+update position: 84
+Pass data to opengl: 468
+grid setup: 1320
+calculate velocity: : 1389
+update position: 288
+Pass data to opengl: 573
+grid setup: 1280
+calculate velocity: : 1079
+update position: 88
+Pass data to opengl: 467
+grid setup: 1268
+calculate velocity: : 1072
+update position: 86
+Pass data to opengl: 469
+grid setup: 1242
+calculate velocity: : 1066
+update position: 86
+Pass data to opengl: 516
+grid setup: 1352
+calculate velocity: : 1067
+update position: 88
+Pass data to opengl: 534
+grid setup: 1284
+calculate velocity: : 1071
+update position: 86
+Pass data to opengl: 484
+grid setup: 1401
+calculate velocity: : 1077
+update position: 140
+Pass data to opengl: 515
+grid setup: 1366
+calculate velocity: : 1065
+update position: 83
+Pass data to opengl: 527
+grid setup: 1273
+calculate velocity: : 1056
+update position: 92
+Pass data to opengl: 468
+grid setup: 1203
+calculate velocity: : 1072
+update position: 86
+Pass data to opengl: 469
+grid setup: 1271
+calculate velocity: : 1064
+update position: 89
+Pass data to opengl: 515
+grid setup: 1243
+calculate velocity: : 1072
+update position: 83
+Pass data to opengl: 470
+grid setup: 1204
+calculate velocity: : 1065
+update position: 87
+Pass data to opengl: 478
+grid setup: 1180
+calculate velocity: : 1088
+update position: 97
+Pass data to opengl: 538
+grid setup: 1282
+calculate velocity: : 1063
+update position: 84
+Pass data to opengl: 536
+grid setup: 1271
+calculate velocity: : 1083
+update position: 83
+Pass data to opengl: 482
+grid setup: 1249
+calculate velocity: : 1072
+update position: 97
+Pass data to opengl: 477
+grid setup: 1239
+calculate velocity: : 1092
+update position: 80
+Pass data to opengl: 529
+grid setup: 1300
+calculate velocity: : 1065
+update position: 103
+Pass data to opengl: 502
+grid setup: 1336
+calculate velocity: : 1089
+update position: 108
+Pass data to opengl: 504
+grid setup: 1403
+calculate velocity: : 1108
+update position: 105
+Pass data to opengl: 523
+grid setup: 1328
+calculate velocity: : 1092
+update position: 86
+Pass data to opengl: 494
+grid setup: 1262
+calculate velocity: : 1075
+update position: 85
+Pass data to opengl: 478
+grid setup: 1262
+calculate velocity: : 1095
+update position: 85
+Pass data to opengl: 511
+grid setup: 1229
+calculate velocity: : 1075
+update position: 89
+Pass data to opengl: 488
+grid setup: 1325
+calculate velocity: : 1085
+update position: 89
+Pass data to opengl: 473
+grid setup: 1248
+calculate velocity: : 1056
+update position: 82
+Pass data to opengl: 522
+grid setup: 1265
+calculate velocity: : 1083
+update position: 89
+Pass data to opengl: 481
+grid setup: 1264
+calculate velocity: : 1061
+update position: 86
+Pass data to opengl: 481
+grid setup: 1266
+calculate velocity: : 1077
+update position: 90
+Pass data to opengl: 535
+grid setup: 1367
+calculate velocity: : 1092
+update position: 83
+Pass data to opengl: 468
+grid setup: 1745
+calculate velocity: : 1109
+update position: 102
+Pass data to opengl: 539
+grid setup: 1248
+calculate velocity: : 1075
+update position: 89
+Pass data to opengl: 482
+grid setup: 1278
+calculate velocity: : 1056
+update position: 91
+Pass data to opengl: 478
+grid setup: 1220
+calculate velocity: : 1089
+update position: 89
+Pass data to opengl: 502
+grid setup: 1414
+calculate velocity: : 1119
+update position: 121
+Pass data to opengl: 517
+grid setup: 1256
+calculate velocity: : 1083
+update position: 88
+Pass data to opengl: 471
+grid setup: 1265
+calculate velocity: : 1117
+update position: 93
+Pass data to opengl: 471
+grid setup: 1276
+calculate velocity: : 1076
+update position: 84
+Pass data to opengl: 525
+grid setup: 1268
+calculate velocity: : 1088
+update position: 87
+Pass data to opengl: 467
+grid setup: 1264
+calculate velocity: : 1093
+update position: 85
+Pass data to opengl: 498
+grid setup: 1213
+calculate velocity: : 1097
+update position: 119
+Pass data to opengl: 580
+grid setup: 1402
+calculate velocity: : 1103
+update position: 141
+Pass data to opengl: 540
+grid setup: 1410
+calculate velocity: : 1101
+update position: 129
+Pass data to opengl: 510
+grid setup: 1299
+calculate velocity: : 1049
+update position: 83
+Pass data to opengl: 518
+grid setup: 1211
+calculate velocity: : 1081
+update position: 86
+Pass data to opengl: 468
+grid setup: 1225
+calculate velocity: : 1081
+update position: 88
+Pass data to opengl: 497
+grid setup: 1213
+calculate velocity: : 1076
+update position: 83
+Pass data to opengl: 506
+grid setup: 1250
+calculate velocity: : 1073
+update position: 86
+Pass data to opengl: 473
+grid setup: 1197
+calculate velocity: : 1082
+update position: 86
+Pass data to opengl: 472
+grid setup: 1275
+calculate velocity: : 1079
+update position: 84
+Pass data to opengl: 529
+grid setup: 1255
+calculate velocity: : 1070
+update position: 85
+Pass data to opengl: 465
+grid setup: 1250
+calculate velocity: : 1086
+update position: 86
+Pass data to opengl: 476
+grid setup: 1260
+calculate velocity: : 1083
+update position: 90
+Pass data to opengl: 510
+grid setup: 1270
+calculate velocity: : 1072
+update position: 85
+Pass data to opengl: 469
+grid setup: 1245
+calculate velocity: : 1071
+update position: 88
+Pass data to opengl: 472
+grid setup: 1256
+calculate velocity: : 1079
+update position: 85
+Pass data to opengl: 530
+grid setup: 1200
+calculate velocity: : 1077
+update position: 88
+Pass data to opengl: 471
+grid setup: 1242
+calculate velocity: : 1077
+update position: 87
+Pass data to opengl: 465
+grid setup: 1209
+calculate velocity: : 1111
+update position: 110
+Pass data to opengl: 528
+grid setup: 1265
+calculate velocity: : 1083
+update position: 85
+Pass data to opengl: 469
+grid setup: 1250
+calculate velocity: : 1098
+update position: 84
+Pass data to opengl: 477
+grid setup: 1210
+calculate velocity: : 1062
+update position: 91
+Pass data to opengl: 541
+grid setup: 1250
+calculate velocity: : 1066
+update position: 84
+Pass data to opengl: 478
+grid setup: 1234
+calculate velocity: : 1060
+update position: 89
+Pass data to opengl: 485
+grid setup: 1208
+calculate velocity: : 1088
+update position: 82
+Pass data to opengl: 522
+grid setup: 1225
+calculate velocity: : 1071
+update position: 84
+Pass data to opengl: 488
+grid setup: 1198
+calculate velocity: : 1084
+update position: 86
+Pass data to opengl: 474
+grid setup: 1247
+calculate velocity: : 1052
+update position: 84
+Pass data to opengl: 509
+grid setup: 1214
+calculate velocity: : 1080
+update position: 87
+Pass data to opengl: 495
+grid setup: 1185
+calculate velocity: : 1088
+update position: 87
+Pass data to opengl: 481
+grid setup: 1257
+calculate velocity: : 1062
+update position: 84
+Pass data to opengl: 524
+grid setup: 1200
+calculate velocity: : 1075
+update position: 84
+Pass data to opengl: 469
+grid setup: 1246
+calculate velocity: : 1087
+update position: 86
+Pass data to opengl: 472
+grid setup: 1238
+calculate velocity: : 1075
+update position: 82
+Pass data to opengl: 517
+grid setup: 1172
+calculate velocity: : 1091
+update position: 86
+Pass data to opengl: 469
+grid setup: 1254
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 494
+grid setup: 1313
+calculate velocity: : 1077
+update position: 133
+Pass data to opengl: 558
+grid setup: 1236
+calculate velocity: : 1069
+update position: 90
+Pass data to opengl: 470
+grid setup: 1258
+calculate velocity: : 1076
+update position: 86
+Pass data to opengl: 592
+grid setup: 1206
+calculate velocity: : 1062
+update position: 89
+Pass data to opengl: 536
+grid setup: 1240
+calculate velocity: : 1084
+update position: 92
+Pass data to opengl: 515
+grid setup: 1254
+calculate velocity: : 1059
+update position: 84
+Pass data to opengl: 488
+grid setup: 1220
+calculate velocity: : 1071
+update position: 99
+Pass data to opengl: 496
+grid setup: 1219
+calculate velocity: : 1049
+update position: 87
+Pass data to opengl: 517
+grid setup: 1252
+calculate velocity: : 1072
+update position: 84
+Pass data to opengl: 467
+grid setup: 1277
+calculate velocity: : 1074
+update position: 86
+Pass data to opengl: 466
+grid setup: 1177
+calculate velocity: : 1059
+update position: 82
+Pass data to opengl: 513
+grid setup: 1256
+calculate velocity: : 1067
+update position: 85
+Pass data to opengl: 474
+grid setup: 1255
+calculate velocity: : 1084
+update position: 85
+Pass data to opengl: 471
+grid setup: 1251
+calculate velocity: : 1044
+update position: 82
+Pass data to opengl: 523
+grid setup: 1193
+calculate velocity: : 1083
+update position: 89
+Pass data to opengl: 471
+grid setup: 1192
+calculate velocity: : 1040
+update position: 83
+Pass data to opengl: 499
+grid setup: 1245
+calculate velocity: : 1107
+update position: 89
+Pass data to opengl: 565
+grid setup: 1200
+calculate velocity: : 1077
+update position: 110
+Pass data to opengl: 595
+grid setup: 1274
+calculate velocity: : 1079
+update position: 84
+Pass data to opengl: 473
+grid setup: 1250
+calculate velocity: : 1063
+update position: 84
+Pass data to opengl: 472
+grid setup: 1255
+calculate velocity: : 1065
+update position: 84
+Pass data to opengl: 515
+grid setup: 1246
+calculate velocity: : 1058
+update position: 82
+Pass data to opengl: 471
+grid setup: 1211
+calculate velocity: : 1091
+update position: 82
+Pass data to opengl: 470
+grid setup: 1178
+calculate velocity: : 1049
+update position: 88
+Pass data to opengl: 520
+grid setup: 1244
+calculate velocity: : 1082
+update position: 85
+Pass data to opengl: 468
+grid setup: 1196
+calculate velocity: : 1065
+update position: 87
+Pass data to opengl: 457
+grid setup: 1192
+calculate velocity: : 1083
+update position: 89
+Pass data to opengl: 516
+grid setup: 1244
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 468
+grid setup: 1319
+calculate velocity: : 1109
+update position: 85
+Pass data to opengl: 466
+grid setup: 1392
+calculate velocity: : 1099
+update position: 106
+Pass data to opengl: 522
+grid setup: 1254
+calculate velocity: : 1081
+update position: 86
+Pass data to opengl: 469
+grid setup: 1205
+calculate velocity: : 1071
+update position: 85
+Pass data to opengl: 468
+grid setup: 1964
+calculate velocity: : 1684
+update position: 90
+Pass data to opengl: 540
+grid setup: 1200
+calculate velocity: : 1077
+update position: 83
+Pass data to opengl: 506
+grid setup: 1250
+calculate velocity: : 1079
+update position: 84
+Pass data to opengl: 465
+grid setup: 1251
+calculate velocity: : 1060
+update position: 91
+Pass data to opengl: 472
+grid setup: 1241
+calculate velocity: : 1072
+update position: 91
+Pass data to opengl: 469
+grid setup: 1201
+calculate velocity: : 1063
+update position: 85
+Pass data to opengl: 470
+grid setup: 1259
+calculate velocity: : 1078
+update position: 94
+Pass data to opengl: 508
+grid setup: 1154
+calculate velocity: : 1070
+update position: 88
+Pass data to opengl: 469
+grid setup: 1239
+calculate velocity: : 1090
+update position: 93
+Pass data to opengl: 473
+grid setup: 1350
+calculate velocity: : 1077
+update position: 93
+Pass data to opengl: 531
+grid setup: 1246
+calculate velocity: : 1061
+update position: 83
+Pass data to opengl: 470
+grid setup: 1214
+calculate velocity: : 1073
+update position: 91
+Pass data to opengl: 468
+grid setup: 1198
+calculate velocity: : 1060
+update position: 85
+Pass data to opengl: 540
+grid setup: 1259
+calculate velocity: : 1037
+update position: 85
+Pass data to opengl: 472
+grid setup: 1237
+calculate velocity: : 1073
+update position: 83
+Pass data to opengl: 469
+grid setup: 1273
+calculate velocity: : 1067
+update position: 84
+Pass data to opengl: 583
+grid setup: 2353
+calculate velocity: : 1062
+update position: 83
+Pass data to opengl: 538
+grid setup: 1195
+calculate velocity: : 1049
+update position: 85
+Pass data to opengl: 468
+grid setup: 1260
+calculate velocity: : 1052
+update position: 90
+Pass data to opengl: 495
+grid setup: 1184
+calculate velocity: : 1066
+update position: 84
+Pass data to opengl: 543
+grid setup: 1204
+calculate velocity: : 1058
+update position: 85
+Pass data to opengl: 472
+grid setup: 1263
+calculate velocity: : 1045
+update position: 91
+Pass data to opengl: 482
+grid setup: 1247
+calculate velocity: : 1053
+update position: 85
+Pass data to opengl: 521
+grid setup: 1263
+calculate velocity: : 1039
+update position: 82
+Pass data to opengl: 453
+grid setup: 1199
+calculate velocity: : 1057
+update position: 98
+Pass data to opengl: 513
+grid setup: 1256
+calculate velocity: : 1055
+update position: 86
+Pass data to opengl: 524
+grid setup: 1273
+calculate velocity: : 1056
+update position: 84
+Pass data to opengl: 470
+grid setup: 1253
+calculate velocity: : 1067
+update position: 92
+Pass data to opengl: 473
+grid setup: 1204
+calculate velocity: : 1084
+update position: 87
+Pass data to opengl: 522
+grid setup: 1246
+calculate velocity: : 1051
+update position: 84
+Pass data to opengl: 468
+grid setup: 1251
+calculate velocity: : 1068
+update position: 107
+Pass data to opengl: 499
+grid setup: 1248
+calculate velocity: : 1046
+update position: 83
+Pass data to opengl: 524
+grid setup: 1250
+calculate velocity: : 1071
+update position: 86
+Pass data to opengl: 470
+grid setup: 1186
+calculate velocity: : 1069
+update position: 95
+Pass data to opengl: 464
+grid setup: 1248
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 510
+grid setup: 1244
+calculate velocity: : 1047
+update position: 85
+Pass data to opengl: 479
+grid setup: 1251
+calculate velocity: : 1058
+update position: 89
+Pass data to opengl: 468
+grid setup: 1270
+calculate velocity: : 1044
+update position: 82
+Pass data to opengl: 514
+grid setup: 1240
+calculate velocity: : 1079
+update position: 86
+Pass data to opengl: 500
+grid setup: 1251
+calculate velocity: : 1034
+update position: 88
+Pass data to opengl: 470
+grid setup: 1266
+calculate velocity: : 1076
+update position: 80
+Pass data to opengl: 513
+grid setup: 1247
+calculate velocity: : 1055
+update position: 89
+Pass data to opengl: 470
+grid setup: 1245
+calculate velocity: : 1073
+update position: 96
+Pass data to opengl: 471
+grid setup: 1264
+calculate velocity: : 1046
+update position: 86
+Pass data to opengl: 511
+grid setup: 1213
+calculate velocity: : 1074
+update position: 87
+Pass data to opengl: 476
+grid setup: 1317
+calculate velocity: : 1049
+update position: 110
+Pass data to opengl: 497
+grid setup: 1289
+calculate velocity: : 1073
+update position: 100
+Pass data to opengl: 597
+grid setup: 1280
+calculate velocity: : 1031
+update position: 102
+Pass data to opengl: 499
+grid setup: 1306
+calculate velocity: : 1074
+update position: 89
+Pass data to opengl: 475
+grid setup: 1411
+calculate velocity: : 1061
+update position: 145
+Pass data to opengl: 554
+grid setup: 1264
+calculate velocity: : 1076
+update position: 82
+Pass data to opengl: 469
+grid setup: 1199
+calculate velocity: : 1030
+update position: 104
+Pass data to opengl: 499
+grid setup: 1255
+calculate velocity: : 1063
+update position: 85
+Pass data to opengl: 518
+grid setup: 1392
+calculate velocity: : 1088
+update position: 127
+Pass data to opengl: 528
+grid setup: 1393
+calculate velocity: : 1101
+update position: 137
+Pass data to opengl: 517
+grid setup: 1375
+calculate velocity: : 1060
+update position: 141
+Pass data to opengl: 584
+grid setup: 1364
+calculate velocity: : 1112
+update position: 140
+Pass data to opengl: 516
+grid setup: 1329
+calculate velocity: : 1056
+update position: 90
+Pass data to opengl: 468
+grid setup: 1255
+calculate velocity: : 1068
+update position: 90
+Pass data to opengl: 466
+grid setup: 1262
+calculate velocity: : 1048
+update position: 88
+Pass data to opengl: 514
+grid setup: 1257
+calculate velocity: : 1058
+update position: 91
+Pass data to opengl: 470
+grid setup: 1193
+calculate velocity: : 1046
+update position: 89
+Pass data to opengl: 491
+grid setup: 1190
+calculate velocity: : 1065
+update position: 87
+Pass data to opengl: 515
+grid setup: 1243
+calculate velocity: : 1053
+update position: 85
+Pass data to opengl: 471
+grid setup: 1234
+calculate velocity: : 1084
+update position: 90
+Pass data to opengl: 470
+grid setup: 1259
+calculate velocity: : 1045
+update position: 86
+Pass data to opengl: 590
+grid setup: 1249
+calculate velocity: : 1071
+update position: 87
+Pass data to opengl: 482
+grid setup: 1332
+calculate velocity: : 1025
+update position: 87
+Pass data to opengl: 474
+grid setup: 1254
+calculate velocity: : 1071
+update position: 84
+Pass data to opengl: 553
+grid setup: 1255
+calculate velocity: : 2371
+update position: 119
+Pass data to opengl: 624
+grid setup: 1341
+calculate velocity: : 1074
+update position: 109
+Pass data to opengl: 522
+grid setup: 1270
+calculate velocity: : 1061
+update position: 90
+Pass data to opengl: 472
+grid setup: 1278
+calculate velocity: : 1092
+update position: 80
+Pass data to opengl: 464
+grid setup: 1250
+calculate velocity: : 1066
+update position: 92
+Pass data to opengl: 477
+grid setup: 1260
+calculate velocity: : 1096
+update position: 87
+Pass data to opengl: 523
+grid setup: 1271
+calculate velocity: : 1052
+update position: 90
+Pass data to opengl: 473
+grid setup: 1335
+calculate velocity: : 1485
+update position: 276
+Pass data to opengl: 599
+grid setup: 1167
+calculate velocity: : 1062
+update position: 87
+Pass data to opengl: 475
+grid setup: 1262
+calculate velocity: : 1077
+update position: 93
+Pass data to opengl: 517
+grid setup: 1265
+calculate velocity: : 1045
+update position: 86
+Pass data to opengl: 472
+grid setup: 1218
+calculate velocity: : 1096
+update position: 89
+Pass data to opengl: 473
+grid setup: 1218
+calculate velocity: : 1042
+update position: 91
+Pass data to opengl: 519
+grid setup: 1379
+calculate velocity: : 1126
+update position: 112
+Pass data to opengl: 471
+grid setup: 2770
+calculate velocity: : 1291
+update position: 92
+Pass data to opengl: 560
+grid setup: 1409
+calculate velocity: : 1104
+update position: 111
+Pass data to opengl: 567
+grid setup: 1381
+calculate velocity: : 1077
+update position: 140
+Pass data to opengl: 537
+grid setup: 1293
+calculate velocity: : 1069
+update position: 89
+Pass data to opengl: 486
+grid setup: 1317
+calculate velocity: : 1065
+update position: 89
+Pass data to opengl: 473
+grid setup: 1251
+calculate velocity: : 1071
+update position: 92
+Pass data to opengl: 474
+grid setup: 1225
+calculate velocity: : 1068
+update position: 78
+Pass data to opengl: 463
+grid setup: 1253
+calculate velocity: : 1069
+update position: 133
+Pass data to opengl: 508
+grid setup: 1259
+calculate velocity: : 1067
+update position: 91
+Pass data to opengl: 467
+grid setup: 1207
+calculate velocity: : 1075
+update position: 88
+Pass data to opengl: 471
+grid setup: 1239
+calculate velocity: : 1049
+update position: 88
+Pass data to opengl: 475
+grid setup: 1247
+calculate velocity: : 1068
+update position: 88
+Pass data to opengl: 484
+grid setup: 1217
+calculate velocity: : 1064
+update position: 89
+Pass data to opengl: 467
+grid setup: 1255
+calculate velocity: : 1072
+update position: 101
+Pass data to opengl: 492
+grid setup: 1296
+calculate velocity: : 1044
+update position: 92
+Pass data to opengl: 475
+grid setup: 1257
+calculate velocity: : 1087
+update position: 91
+Pass data to opengl: 515
+grid setup: 1256
+calculate velocity: : 1054
+update position: 91
+Pass data to opengl: 473
+grid setup: 1370
+calculate velocity: : 1097
+update position: 84
+Pass data to opengl: 471
+grid setup: 1248
+calculate velocity: : 1051
+update position: 89
+Pass data to opengl: 519
+grid setup: 1239
+calculate velocity: : 1056
+update position: 93
+Pass data to opengl: 483
+grid setup: 1219
+calculate velocity: : 1046
+update position: 88
+Pass data to opengl: 466
+grid setup: 1200
+calculate velocity: : 1079
+update position: 91
+Pass data to opengl: 469
+grid setup: 1249
+calculate velocity: : 1069
+update position: 97
+Pass data to opengl: 476
+grid setup: 1223
+calculate velocity: : 1091
+update position: 89
+Pass data to opengl: 466
+grid setup: 1170
+calculate velocity: : 1058
+update position: 95
+Pass data to opengl: 505
+grid setup: 2180
+calculate velocity: : 2010
+update position: 92
+Pass data to opengl: 485
+grid setup: 1241
+calculate velocity: : 1041
+update position: 89
+Pass data to opengl: 480
+grid setup: 1178
+calculate velocity: : 1084
+update position: 88
+Pass data to opengl: 540
+grid setup: 1241
+calculate velocity: : 1057
+update position: 89
+Pass data to opengl: 493
+grid setup: 1246
+calculate velocity: : 1094
+update position: 92
+Pass data to opengl: 485
+grid setup: 1254
+calculate velocity: : 1060
+update position: 91
+Pass data to opengl: 525
+grid setup: 1253
+calculate velocity: : 1111
+update position: 92
+Pass data to opengl: 473
+grid setup: 1253
+calculate velocity: : 1070
+update position: 88
+Pass data to opengl: 495
+grid setup: 1326
+calculate velocity: : 1084
+update position: 92
+Pass data to opengl: 515
+grid setup: 1241
+calculate velocity: : 1071
+update position: 90
+Pass data to opengl: 482
+grid setup: 1210
+calculate velocity: : 1081
+update position: 93
+Pass data to opengl: 499
+grid setup: 1262
+calculate velocity: : 1071
+update position: 89
+Pass data to opengl: 515
+grid setup: 1225
+calculate velocity: : 1088
+update position: 93
+Pass data to opengl: 531
+grid setup: 1369
+calculate velocity: : 1053
+update position: 103
+Pass data to opengl: 524
+grid setup: 1242
+calculate velocity: : 1092
+update position: 98
+Pass data to opengl: 508
+grid setup: 1277
+calculate velocity: : 1069
+update position: 92
+Pass data to opengl: 734
+grid setup: 1207
+calculate velocity: : 1085
+update position: 90
+Pass data to opengl: 476
+grid setup: 1288
+calculate velocity: : 1085
+update position: 108
+Pass data to opengl: 513
+grid setup: 1198
+calculate velocity: : 1066
+update position: 92
+Pass data to opengl: 483
+grid setup: 1256
+calculate velocity: : 1071
+update position: 91
+Pass data to opengl: 490
+grid setup: 1194
+calculate velocity: : 1108
+update position: 85
+Pass data to opengl: 528
+grid setup: 1227
+calculate velocity: : 1074
+update position: 90
+Pass data to opengl: 485
+grid setup: 1260
+calculate velocity: : 1092
+update position: 90
+Pass data to opengl: 472
+grid setup: 1250
+calculate velocity: : 1054
+update position: 89
+Pass data to opengl: 490
+grid setup: 1255
+calculate velocity: : 1075
+update position: 117
+Pass data to opengl: 479
+grid setup: 1268
+calculate velocity: : 1076
+update position: 88
+Pass data to opengl: 472
+grid setup: 1242
+calculate velocity: : 1084
+update position: 92
+Pass data to opengl: 472
+grid setup: 1379
+calculate velocity: : 1095
+update position: 97
+Pass data to opengl: 472
+grid setup: 1249
+calculate velocity: : 1085
+update position: 90
+Pass data to opengl: 473
+grid setup: 1263
+calculate velocity: : 1068
+update position: 125
+Pass data to opengl: 567
+grid setup: 1271
+calculate velocity: : 1772
+update position: 107
+Pass data to opengl: 507
+grid setup: 1220
+calculate velocity: : 1071
+update position: 80
+Pass data to opengl: 470
+grid setup: 1213
+calculate velocity: : 1105
+update position: 89
+Pass data to opengl: 520
+grid setup: 1273
+calculate velocity: : 1076
+update position: 88
+Pass data to opengl: 499
+grid setup: 1246
+calculate velocity: : 1080
+update position: 98
+Pass data to opengl: 480
+grid setup: 1251
+calculate velocity: : 1065
+update position: 81
+Pass data to opengl: 542
+grid setup: 1331
+calculate velocity: : 1107
+update position: 104
+Pass data to opengl: 501
+grid setup: 1191
+calculate velocity: : 1080
+update position: 85
+Pass data to opengl: 473
+grid setup: 1353
+calculate velocity: : 1120
+update position: 94
+Pass data to opengl: 548
+grid setup: 1244
+calculate velocity: : 1058
+update position: 88
+Pass data to opengl: 482
+grid setup: 1296
+calculate velocity: : 1110
+update position: 110
+Pass data to opengl: 507
+grid setup: 1433
+calculate velocity: : 1097
+update position: 129
+Pass data to opengl: 515
+grid setup: 1299
+calculate velocity: : 1087
+update position: 84
+Pass data to opengl: 483
+grid setup: 1261
+calculate velocity: : 1066
+update position: 86
+Pass data to opengl: 469
+grid setup: 1256
+calculate velocity: : 1128
+update position: 82
+Pass data to opengl: 511
+grid setup: 1290
+calculate velocity: : 1445
+update position: 268
+Pass data to opengl: 526
+grid setup: 1307
+calculate velocity: : 1117
+update position: 121
+Pass data to opengl: 467
+grid setup: 1243
+calculate velocity: : 1071
+update position: 83
+Pass data to opengl: 574
+grid setup: 1243
+calculate velocity: : 1056
+update position: 124
+Pass data to opengl: 470
+grid setup: 1266
+calculate velocity: : 1104
+update position: 140
+Pass data to opengl: 543
+grid setup: 1397
+calculate velocity: : 1114
+update position: 140
+Pass data to opengl: 510
+grid setup: 1240
+calculate velocity: : 1072
+update position: 86
+Pass data to opengl: 478
+grid setup: 1377
+calculate velocity: : 1082
+update position: 84
+Pass data to opengl: 470
+grid setup: 1189
+calculate velocity: : 1049
+update position: 90
+Pass data to opengl: 469
+grid setup: 1407
+calculate velocity: : 1087
+update position: 136
+Pass data to opengl: 517
+grid setup: 1304
+calculate velocity: : 1054
+update position: 83
+Pass data to opengl: 472
+grid setup: 1253
+calculate velocity: : 1083
+update position: 92
+Pass data to opengl: 480
+grid setup: 1390
+calculate velocity: : 1096
+update position: 140
+Pass data to opengl: 538
+grid setup: 1256
+calculate velocity: : 1074
+update position: 85
+Pass data to opengl: 466
+grid setup: 1250
+calculate velocity: : 1060
+update position: 88
+Pass data to opengl: 474
+grid setup: 1387
+calculate velocity: : 1096
+update position: 129
+Pass data to opengl: 548
+grid setup: 1266
+calculate velocity: : 1069
+update position: 84
+Pass data to opengl: 485
+grid setup: 1345
+calculate velocity: : 1088
+update position: 81
+Pass data to opengl: 548
+grid setup: 1250
+calculate velocity: : 1065
+update position: 89
+Pass data to opengl: 495
+grid setup: 1241
+calculate velocity: : 1065
+update position: 83
+Pass data to opengl: 474
+grid setup: 1240
+calculate velocity: : 1040
+update position: 84
+Pass data to opengl: 525
+grid setup: 1249
+calculate velocity: : 1057
+update position: 88
+Pass data to opengl: 521
+grid setup: 1386
+calculate velocity: : 1084
+update position: 134
+Pass data to opengl: 511
+grid setup: 1365
+calculate velocity: : 1102
+update position: 130
+Pass data to opengl: 520
+grid setup: 1344
+calculate velocity: : 1045
+update position: 92
+Pass data to opengl: 466
+grid setup: 1217
+calculate velocity: : 1050
+update position: 83
+Pass data to opengl: 476
+grid setup: 1266
+calculate velocity: : 1078
+update position: 91
+Pass data to opengl: 463
+grid setup: 1225
+calculate velocity: : 1040
+update position: 89
+Pass data to opengl: 477
+grid setup: 1236
+calculate velocity: : 1050
+update position: 80
+Pass data to opengl: 464
+grid setup: 1247
+calculate velocity: : 1046
+update position: 84
+Pass data to opengl: 497
+grid setup: 1381
+calculate velocity: : 1056
+update position: 138
+Pass data to opengl: 523
+grid setup: 1741
+calculate velocity: : 1049
+update position: 100
+Pass data to opengl: 540
+grid setup: 1227
+calculate velocity: : 1041
+update position: 83
+Pass data to opengl: 459
+grid setup: 1375
+calculate velocity: : 1685
+update position: 85
+Pass data to opengl: 482

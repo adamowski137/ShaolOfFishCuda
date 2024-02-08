@@ -3,6 +3,7 @@
 #include <glm.hpp>
 #include "Shader.hpp"
 #include "FishBase.cuh"
+#include <fstream>
 class CudaFishSpecies : public FishBase
 {
 private:
@@ -20,16 +21,6 @@ private:
 	int* dev_grid_cell_start;
 	int* dev_grid_cell_end;
 
-	float safeZoneRadiusSQ;
-	float viewZoneRadiusSQ;
-	float viewZoneRadius;
-	float maxSpeed;
-	float minSpeed;
-	float avoidFactor;
-	float centeringFactor;
-	float matchingfactor;
-	float turnfactor;
-	float margin;
 	glm::vec3 color;
 	unsigned int amountOfFish;
 
@@ -38,6 +29,7 @@ private:
 
 	const int threads;
 	int blocks;
+	std::ofstream out;
 
 	GLuint vao, vbox, vboy, vbovx, vbovy;
 
@@ -46,11 +38,11 @@ private:
 	void setupDeviceData();
 
 public:
-	CudaFishSpecies(const char* cfgFile);
+	CudaFishSpecies(const char* cfgFile, const char* outPath);
 	~CudaFishSpecies();
 	void updatePosition(float xMouse, float yMouse) override;
 	void renderData() override;
-	void setShaderData(Shader shader) override;
+	void setShaderData(Shader& shader) override;
 };
 
 __device__ __host__ unsigned int positionToSquare(float x, float y, int amountOfSquaresRow, float viewZoneRadius);

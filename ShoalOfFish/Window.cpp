@@ -1,4 +1,7 @@
 #include <glad/glad.h>
+#include "imgui.h"
+#include "imgui_impl_glfw.h"
+#include "imgui_impl_opengl3.h"
 #include <GLFW/glfw3.h>
 #include <gtc/matrix_transform.hpp>
 #include <iostream>
@@ -8,6 +11,7 @@
 #include "Shader.hpp"
 #include "Fish.cuh"
 #include "CudaFish.cuh"
+
 GLenum glCheckError_(const char* file, int line)
 {
 	GLenum errorCode;
@@ -32,12 +36,12 @@ GLenum glCheckError_(const char* file, int line)
 #define glCheckError() glCheckError_(__FILE__, __LINE__) 
 float Window::xMouse = -2.0f;
 float Window::yMouse = -2.0f;
-int Window::WIDTH = 0;
-int Window::HEIGHT = 0;
-Shader* Window::shader = nullptr;
+int Window::WIDTH = 800;
+int Window::HEIGHT = 600;
 GLFWwindow* Window::window = nullptr;
 bool Window::gpuMode = false;
-
+bool Window::mouseClicked = false;
+int Window::selectedFish = 0;
 
 Window::Window()
 {
@@ -48,43 +52,37 @@ Window::Window()
 	if (!glfwInit())
 		throw "glfw init error";
 
-	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
-	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 5);
-	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
-	
-	GLFWmonitor* monitor = glfwGetPrimaryMonitor();
-	const GLFWvidmode* mode = glfwGetVideoMode(monitor);
-
-	glfwWindowHint(GLFW_RED_BITS, mode->redBits);
-	glfwWindowHint(GLFW_GREEN_BITS, mode->greenBits);
-	glfwWindowHint(GLFW_BLUE_BITS, mode->blueBits);
-	glfwWindowHint(GLFW_REFRESH_RATE, mode->refreshRate);
-
-	WIDTH = mode->width;
-	HEIGHT = mode->height;
-	window = glfwCreateWindow(mode->width, mode->height, "Shoal of Fish", monitor, NULL);
+	window = glfwCreateWindow(WIDTH, HEIGHT, "Shoal of Fish", NULL, NULL);
 	
 	if (!window)
 		throw "glfw create window error";
 
+	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 4);
+	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 5);
+	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+	glfwWindowHint(GLFW_RESIZABLE, GLFW_FALSE);
+
+
 	glfwMakeContextCurrent(window);
 	glfwSetFramebufferSizeCallback(window, Window::framebuffer_size_callback);
 	glfwSetCursorPosCallback(window, Window::cursor_position_callback);
+	glfwSetMouseButtonCallback(window, Window::mouse_button_callback);
 
 	if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
 	{
 		throw "Failed to initialize GLAD";
 	}
+	gladLoadGL();
 
+	IMGUI_CHECKVERSION();
+	ImGui::CreateContext();
+	static ImGuiIO& io = ImGui::GetIO(); (void)io;
+	io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;
+	io.ConfigFlags |= ImGuiConfigFlags_NavEnableGamepad;
+	ImGui::StyleColorsDark();
+	ImGui_ImplGlfw_InitForOpenGL(window, true);
+	ImGui_ImplOpenGL3_Init("#version 450");
 
-	shader = new Shader{ "vertex.glsl", "geometry.glsl", "fragment.glsl" };
-	setOneTimeShaderData();
-}
-
-void Window::setOneTimeShaderData()
-{
-	shader->use();
-	shader->setVec3("color", glm::vec3{ 1.0f, 1.0f, 1.0f });
 }
 
 void Window::framebuffer_size_callback(GLFWwindow* window, int width, int height)
@@ -96,14 +94,34 @@ void Window::framebuffer_size_callback(GLFWwindow* window, int width, int height
 
 void Window::cursor_position_callback(GLFWwindow* window, double xpos, double ypos)
 {
+	if (!mouseClicked)	return;
 	xMouse = (2 * (xpos / WIDTH)) - 1.0f; 
 	yMouse = (2 *  (- ypos / HEIGHT)) + 1.0f;
+}
+void Window::mouse_button_callback(GLFWwindow* window, int button, int action, int mods)
+{
+	if (button == GLFW_MOUSE_BUTTON_LEFT && action == GLFW_PRESS)
+	{
+		double xpos, ypos;
+		glfwGetCursorPos(window, &xpos, &ypos);
+		xMouse = (2 * (xpos / WIDTH)) - 1.0f;
+		yMouse = (2 * (-ypos / HEIGHT)) + 1.0f;
+		mouseClicked = true;
+	}
+	if (button == GLFW_MOUSE_BUTTON_LEFT && action == GLFW_RELEASE)
+	{
+		xMouse = 10.0f;
+		yMouse = 10.0f;
+		mouseClicked = false;
+	}
 }
 
 
 Window::~Window()
 {
-	delete shader;
+	ImGui_ImplOpenGL3_Shutdown();
+	ImGui_ImplGlfw_Shutdown();
+	ImGui::DestroyContext();
 	glfwTerminate();
 }
 
@@ -113,41 +131,60 @@ void Window::runWindow()
 
 	if (gpuMode)
 	{
-		fishSpecies.push_back(new CudaFishSpecies{ "CudaFish.txt" });
-		fishSpecies.push_back(new CudaFishSpecies{ "CudaFish2.txt" });
+		fishSpecies.push_back(new CudaFishSpecies{ "CudaFish.txt", "CudaFishOut.txt"});
+		fishSpecies.push_back(new CudaFishSpecies{ "CudaFish2.txt", "CudaFishOut2.txt" });
 	}
 	else
 	{
-		fishSpecies.push_back(new FishSpecies{ "Fish.txt" });
-		fishSpecies.push_back(new FishSpecies{ "Fish2.txt" });
+		fishSpecies.push_back(new FishSpecies{ "Fish.txt", "FishOut.txt"});
+		fishSpecies.push_back(new FishSpecies{ "Fish2.txt", "FishOut2.txt"});
 	}
+	Shader shader{ "vertex.glsl", "geometry.glsl", "fragment.glsl" };
+	shader.use();
+	long long longDur = 1;
+	long long shortDur = 1;
 
-	shader->use();
-	long long prevDur = 0;
-	
 	while (!glfwWindowShouldClose(window))
 	{ 
+		auto start = std::chrono::high_resolution_clock::now();
+		glfwPollEvents();
+
+		float avoidParameter = fishSpecies[selectedFish]->avoidFactor;
+		float centeringParameter = fishSpecies[selectedFish]->centeringFactor;
+		float matchingParameter = fishSpecies[selectedFish]->matchingFactor;
+		ImGui_ImplGlfw_NewFrame();
+		ImGui_ImplOpenGL3_NewFrame();
+		ImGui::NewFrame();
+		ImGui::Begin("Parameters");
+		ImGui::SliderInt("Select Fish Species", &selectedFish, 0, fishSpecies.size() - 1);
+		ImGui::SliderFloat("Avoid parametr", &avoidParameter, 0.001f, 1.0f);
+		ImGui::SliderFloat("Centering parametr", &centeringParameter, 0.001f, 0.01f);
+		ImGui::SliderFloat("Matching parametr", &matchingParameter, 0.001f, 1.0f);
+		ImGui::Text("Displaying Fps(monitor frequency cap): %d Algortihm Fps: %d", 1000000/longDur, 1000000 / shortDur);
+		ImGui::End();
+		ImGui::EndFrame();
+		ImGui::Render();
+
+		fishSpecies[selectedFish]->avoidFactor = avoidParameter;
+		fishSpecies[selectedFish]->centeringFactor = centeringParameter;
+		fishSpecies[selectedFish]->matchingFactor = matchingParameter;
+		
 		glCheckError();
 		glClear(GL_COLOR_BUFFER_BIT);
-		auto start = std::chrono::high_resolution_clock::now();
-
 		for (auto& fish : fishSpecies)
 		{
-			fish->setShaderData(*shader);
+			shader.use();
+			fish->setShaderData(shader);
 			fish->updatePosition(xMouse, yMouse);
 			fish->renderData();
 		}
-
+		auto shortend = std::chrono::high_resolution_clock::now();
+		shortDur = std::chrono::duration_cast<std::chrono::microseconds>(shortend - start).count();
+		ImGui_ImplOpenGL3_RenderDrawData(ImGui::GetDrawData()); 
 		glfwSwapBuffers(window);
 
-		glfwPollEvents();
-
-		auto end = std::chrono::high_resolution_clock::now();
-		prevDur = std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
-		//std::cout << "FPS: " << 1000000 / prevDur << std::endl;
-
-		if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
-			glfwSetWindowShouldClose(window, true);
+		auto longend = std::chrono::high_resolution_clock::now();
+		longDur = std::chrono::duration_cast<std::chrono::microseconds>(longend - start).count();
 	}
 	for (auto& fish : fishSpecies)
 	{
